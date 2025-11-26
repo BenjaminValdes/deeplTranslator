@@ -1,37 +1,51 @@
 import json
 import os
+from dotenv import load_dotenv
 import time
 from pathlib import Path
-
 import requests
+
+
+load_dotenv()
 
 DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
 if not DEEPL_API_KEY:
     raise SystemExit("Missing DEEPL_API_KEY env var")
 
-# Ajusta estos paths
-INPUT_PATH = Path("en.json")
-OUTPUT_PATH = Path("fr-FR.json")
+# -----------------------------------------------
+# Pedir datos al usuario
+# -----------------------------------------------
 
-# Idioma destino DeepL: FR, PT-BR, DE, ZH, KO…
-TARGET_LANG = "FR"  # o "PT-BR", "DE", "ZH", "KO", etc.
+# El archivo JSON debe estar en el mismo directorio, o de lo contrario pasar la ruta completa
+def ask_inputs():
+    print("=== DeepL Translation Script ===")
 
-DEEPL_ENDPOINT = "https://api-free.deepl.com/v2/translate"
-# Para API de pago:
-# DEEPL_ENDPOINT = "https://api.deepl.com/v2/translate"
+    input_path_str = input("Path del archivo de entrada (ej: en.json): ").strip()
+    output_path_str = input("Path del archivo de salida (ej: fr-FR.json): ").strip()
+    target_lang = input("Idioma destino DeepL (ej: FR, PT-BR, DE, ZH): ").strip().upper()
 
-BATCH_SIZE = 50  # cuántas cadenas enviar por request
+    if not input_path_str:
+        raise ValueError("Debe ingresar el path del archivo de entrada.")
+    if not output_path_str:
+        raise ValueError("Debe ingresar el path del archivo de salida.")
+    if not target_lang:
+        raise ValueError("Debe ingresar un idioma destino.")
 
+    return Path(input_path_str), Path(output_path_str), target_lang
 
-def translate_batch(texts: list[str]) -> list[str]:
-    """Envía un batch de textos a DeepL y devuelve la lista de traducciones."""
+# Configuración
+DEEPL_ENDPOINT = "https://api.deepl.com/v2/translate"
+BATCH_SIZE = 50
+
+# -----------------------------------------------
+# Traducción por batches
+# -----------------------------------------------
+def translate_batch(texts: list[str], target_lang: str) -> list[str]:
     data = {
         "auth_key": DEEPL_API_KEY,
-        "target_lang": TARGET_LANG,
-        # Opcional:
-        # "preserve_formatting": "1",
+        "target_lang": target_lang,
     }
-    # DeepL permite múltiples parámetros text
+
     for t in texts:
         data.setdefault("text", [])
         data["text"].append(t)
@@ -42,13 +56,19 @@ def translate_batch(texts: list[str]) -> list[str]:
 
     payload = response.json()
     translations = payload.get("translations", [])
+
     if len(translations) != len(texts):
-        raise RuntimeError("Mismatch between input texts and translations")
+        raise RuntimeError("Mismatch entre textos enviados y traducidos")
 
     return [t["text"] for t in translations]
 
 
+# -----------------------------------------------
+# Main
+# -----------------------------------------------
 def main():
+    INPUT_PATH, OUTPUT_PATH, TARGET_LANG = ask_inputs()
+
     raw = INPUT_PATH.read_text("utf-8")
     data: dict[str, str] = json.loads(raw)
 
@@ -56,7 +76,7 @@ def main():
     translated: dict[str, str] = {}
 
     total = len(items)
-    print(f"Translating {total} entries to {TARGET_LANG}...")
+    print(f"\nTraduciendo {total} entries a {TARGET_LANG}...\n")
 
     for i in range(0, total, BATCH_SIZE):
         batch = items[i : i + BATCH_SIZE]
@@ -64,23 +84,25 @@ def main():
         values = [v for _, v in batch]
 
         try:
-            translated_values = translate_batch(values)
+            translated_values = translate_batch(values, TARGET_LANG)
         except Exception as e:
-            print(f"Error translating batch {i}-{i+len(batch)}: {e}")
-            # opcional: sleep/retry si hay rate limit
+            print(f"Error traduciendo batch {i}-{i+len(batch)}: {e}")
             time.sleep(5)
             raise
 
         for k, tv in zip(keys, translated_values, strict=True):
             translated[k] = tv
 
-        print(f"Translated {min(i + BATCH_SIZE, total)}/{total}")
+        print(f"Traducidas {min(i + BATCH_SIZE, total)}/{total}")
 
-        # opcional: evitar rate limit
         time.sleep(0.5)
 
-    OUTPUT_PATH.write_text(json.dumps(translated, ensure_ascii=False, indent=2), "utf-8")
-    print(f"Done. Written: {OUTPUT_PATH}")
+    OUTPUT_PATH.write_text(
+        json.dumps(translated, ensure_ascii=False, indent=2),
+        "utf-8",
+    )
+
+    print(f"\nListo! Archivo generado: {OUTPUT_PATH}\n")
 
 
 if __name__ == "__main__":
