@@ -1,0 +1,243 @@
+{
+"activity_types": [
+	{
+		"activity_type_id" : 1,
+		"name" : "AGRICULTURA, GANADERIA, CAZA Y SERVICIOS CONEXOS"
+	},
+	{
+		"activity_type_id" : 2,
+		"name" : "SILVICULTURA, EXTRACCION DE MADERA Y SERVICIOS CONEXOS"
+	},
+	{
+		"activity_type_id" : 3,
+		"name" : "PESCA, EXPLOTACION DE CRIADEROS DE PECES, GRANJAS PISCICOLAS Y SERVICIOS CONEXOS"
+	},
+	{
+		"activity_type_id" : 4,
+		"name" : "EXTRACCION DE CARBON Y LIGNITO; EXTRACCION DE TURBA"
+	},
+	{
+		"activity_type_id" : 5,
+		"name" : "EXTRACCION DE PETROLEO CRUDO Y GAS NATURAL; ACTIVIDADES DE SERVICIOS RELACIONADAS CON LA EXTRACCION DE PETROLEO Y GAS, EXCEPTO LAS ACTIVIDADES DE PROSPECCION"
+	},
+	{
+		"activity_type_id" : 6,
+		"name" : "EXTRACCION DE MINERALES DE URANIO Y TORIO"
+	},
+	{
+		"activity_type_id" : 7,
+		"name" : "EXTRACCION DE MINERALES METALIFEROS"
+	},
+	{
+		"activity_type_id" : 8,
+		"name" : "EXPLOTACION DE MINAS Y CANTERAS N.C.P."
+	},
+	{
+		"activity_type_id" : 9,
+		"name" : "ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS"
+	},
+	{
+		"activity_type_id" : 10,
+		"name" : "ELABORACION DE PRODUCTOS DE TABACO"
+	},
+	{
+		"activity_type_id" : 11,
+		"name" : "FABRICACION DE PRODUCTOS TEXTILES"
+	},
+	{
+		"activity_type_id" : 12,
+		"name" : "CONFECCION DE PRENDAS DE VESTIR; TERMINACION Y TEÑIDO DE PIELES"
+	},
+	{
+		"activity_type_id" : 13,
+		"name" : "CURTIDO Y TERMINACION DE CUEROS; FABRICACION DE ARTICULOS DE MARROQUINERIA, TALABARTERIA Y CALZADO Y DE SUS PARTES"
+	},
+	{
+		"activity_type_id" : 14,
+		"name" : "PRODUCCION DE MADERA Y FABRICACION DE PRODUCTOS DE MADERA Y CORCHO, EXCEPTO MUEBLES; FABRICACION DE ARTICULOS DE PAJA Y DE MATERIALES TRENZABLES"
+	},
+	{
+		"activity_type_id" : 15,
+		"name" : "FABRICACION DE PAPEL Y DE PRODUCTOS DE PAPEL"
+	},
+	{
+		"activity_type_id" : 16,
+		"name" : "EDICION E IMPRESION; REPRODUCCION DE GRABACIONES"
+	},
+	{
+		"activity_type_id" : 17,
+		"name" : "FABRICACION DE COQUE, PRODUCTOS DE LA REFINACION DEL PETROLEO Y COMBUSTIBLE NUCLEAR"
+	},
+	{
+		"activity_type_id" : 18,
+		"name" : "FABRICACION DE SUSTANCIAS Y PRODUCTOS QUIMICOS"
+	},
+	{
+		"activity_type_id" : 19,
+		"name" : "FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICO"
+	},
+	{
+		"activity_type_id" : 20,
+		"name" : "FABRICACION DE PRODUCTOS MINERALES NO METALICOS"
+	},
+	{
+		"activity_type_id" : 21,
+		"name" : "FABRICACION DE METALES COMUNES"
+	},
+	{
+		"activity_type_id" : 22,
+		"name" : "FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO"
+	},
+	{
+		"activity_type_id" : 23,
+		"name" : "FABRICACION DE MAQUINARIA Y EQUIPO N.C.P."
+	},
+	{
+		"activity_type_id" : 24,
+		"name" : "FABRICACIÓN DE MAQUINARIA DE OFICINA, CONTABILIDAD E INFORMÁTICA"
+	},
+	{
+		"activity_type_id" : 25,
+		"name" : "FABRICACIÓN DE MAQUINARIA Y APARATOS ELÉCTRICOS N.C.P."
+	},
+	{
+		"activity_type_id" : 26,
+		"name" : "FABRICACIÓN DE EQUIPOS Y APARATOS DE RADIO, TELEVISIÓN Y COMUNICACIONES"
+	},
+	{
+		"activity_type_id" : 27,
+		"name" : "FABRICACIÓN DE INSTRUMENTOS MÉDICOS, ÓPTICOS Y DE PRECISIÓN; FABRICACIÓN DE RELOJES"
+	},
+	{
+		"activity_type_id" : 28,
+		"name" : "FABRICACIÓN DE VEHÍCULOS AUTOMOTORES, REMOLQUES Y SEMIREMOLQUES"
+	},
+	{
+		"activity_type_id" : 29,
+		"name" : "FABRICACIÓN DE EQUIPO DE TRANSPORTE N.C.P."
+	},
+	{
+		"activity_type_id" : 30,
+		"name" : "FABRICACIÓN DE MUEBLES Y COLCHONES; INDUSTRIAS MANUFACTURERAS N.C.P."
+	},
+	{
+		"activity_type_id" : 31,
+		"name" : "RECICLAMIENTO"
+	},
+	{
+		"activity_type_id" : 32,
+		"name" : "ELECTRICIDAD, GAS, VAPOR Y AGUA CALIENTE"
+	},
+	{
+		"activity_type_id" : 33,
+		"name" : "CAPTACION, DEPURACION Y DISTRIBUCION DE AGUA"
+	},
+	{
+		"activity_type_id" : 34,
+		"name" : "CONSTRUCCION"
+	},
+	{
+		"activity_type_id" : 35,
+		"name" : "VENTA, MANTENIMIENTO Y REPARACION DE VEHICULOS AUTOMOTORES Y MOTOCICLETAS; VENTA AL POR MENOR DE COMBUSTIBLE PARA VEHÍCULOS AUTOMOTORES"
+	},
+	{
+		"activity_type_id" : 36,
+		"name" : "COMERCIO AL POR MAYOR Y\/O EN COMISION O CONSIGNACIÓN, EXCEPTO EL COMERCIO DE VEHICULOS AUTOMOTORES Y MOTOCICLETAS"
+	},
+	{
+		"activity_type_id" : 37,
+		"name" : "COMERCIO AL POR MENOR, EXCEPTO EL COMERCIO DE VEHICULOS AUTOMOTORES Y MOTOCICLETAS; REPARACION DE EFECTOS PERSONALES Y ENSERES DOMESTICOS"
+	},
+	{
+		"activity_type_id" : 38,
+		"name" : "SERVICIOS DE HOTELERIA Y RESTAURANTES"
+	},
+	{
+		"activity_type_id" : 39,
+		"name" : "SERVICIO DE TRANSPORTE TERRESTRE"
+	},
+	{
+		"activity_type_id" : 40,
+		"name" : "SERVICIO DE TRANSPORTE POR VIA ACUATICA"
+	},
+	{
+		"activity_type_id" : 41,
+		"name" : "SERVICIO DE TRANSPORTE AEREO"
+	},
+	{
+		"activity_type_id" : 42,
+		"name" : "SERVICIOS ANEXOS AL TRANSPORTE; SERVICIOS DE AGENCIAS DE VIAJE"
+	},
+	{
+		"activity_type_id" : 43,
+		"name" : "SERVICIOS DE CORREOS Y TELECOMUNICACIONES"
+	},
+	{
+		"activity_type_id" : 44,
+		"name" : "INTERMEDIACION FINANCIERA Y OTROS SERVICIOS FINANCIEROS EXCEPTO LOS DE SEGURO Y DE ADMINISTRACION DE FONDOS DE JUBILACIONES Y PENSIONES"
+	},
+	{
+		"activity_type_id" : 45,
+		"name" : "SERVICIOS DE SEGUROS Y DE ADMINISTRACIÓN DE FONDOS DE JUBILACIONES Y PENSIONES"
+	},
+	{
+		"activity_type_id" : 46,
+		"name" : "SERVICIOS AUXILIARES A LA ACTIVIDAD FINANCIERA"
+	},
+	{
+		"activity_type_id" : 47,
+		"name" : "SERVICIOS INMOBILIARIOS"
+	},
+	{
+		"activity_type_id" : 48,
+		"name" : "ALQUILER DE EQUIPO DE TRANSPORTE, MAQUINARIAS Y EQUIPOS SIN OPERARIOS; ALQUILER DE EFECTOS PERSONALES Y ENSERES DOMESTICOS"
+	},
+	{
+		"activity_type_id" : 49,
+		"name" : "SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS"
+	},
+	{
+		"activity_type_id" : 50,
+		"name" : "INVESTIGACIÓN Y DESARROLLO"
+	},
+	{
+		"activity_type_id" : 51,
+		"name" : "SERVICIOS EMPRESARIALES N.C.P."
+	},
+	{
+		"activity_type_id" : 52,
+		"name" : "ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA"
+	},
+	{
+		"activity_type_id" : 53,
+		"name" : "ENSEÑANZA"
+	},
+	{
+		"activity_type_id" : 54,
+		"name" : "SERVICIOS SOCIALES Y DE SALUD"
+	},
+	{
+		"activity_type_id" : 55,
+		"name" : "ELIMINACIÓN DE DESPERDICIOS Y AGUAS RESIDUALES, SANEAMIENTO Y SERVICIOS SIMILARES"
+	},
+	{
+		"activity_type_id" : 56,
+		"name" : "SERVICIOS DE ASOCIACIONES N.C.P."
+	},
+	{
+		"activity_type_id" : 57,
+		"name" : "SERVICIOS DE ESPARCIMIENTO Y SERVICIOS CULTURALES Y DEPORTIVOS"
+	},
+	{
+		"activity_type_id" : 58,
+		"name" : "SERVICIOS N.C.P."
+	},
+	{
+		"activity_type_id" : 59,
+		"name" : "SERVICIOS DE HOGARES PRIVADOS QUE CONTRATAN SERVICIO DOMESTICO"
+	},
+	{
+		"activity_type_id" : 60,
+		"name" : "SERVICIOS DE ORGANIZACIONES Y ORGANOS EXTRATERRITORIALES"
+	}
+]}

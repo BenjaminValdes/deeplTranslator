@@ -1,0 +1,92 @@
+{
+  "subgroups": [
+    {
+      "subgroup_id": 1,
+      "subgroup_name": "Empresa"
+    },
+    {
+      "subgroup_id": 2,
+      "subgroup_name": "Contacto"
+    },
+    {
+      "subgroup_id": 3,
+      "subgroup_name": "Capacidad Económico Financiera"
+    },
+    {
+      "subgroup_id": 4,
+      "subgroup_name": "Capacidad Técnica y Experiencia"
+    },
+    {
+      "subgroup_id": 5,
+      "subgroup_name": "Plantilla de personal"
+    },
+    {
+      "subgroup_id": 6,
+      "subgroup_name": "Equipamiento"
+    },
+    {
+      "subgroup_id": 7,
+      "subgroup_name": "Subcontratistas"
+    },
+    {
+      "subgroup_id": 8,
+      "subgroup_name": "Contenido Local"
+    },
+    {
+      "subgroup_id": 9,
+      "subgroup_name": "Líder de Seguridad"
+    },
+    {
+      "subgroup_id": 10,
+      "subgroup_name": "Política y sistemas"
+    },
+    {
+      "subgroup_id": 11,
+      "subgroup_name": "Identificación de peligros, evaluación de riesgos y control de riesgos"
+    },
+    {
+      "subgroup_id": 12,
+      "subgroup_name": "Entrenamiento y Capacitaciones"
+    },
+    {
+      "subgroup_id": 13,
+      "subgroup_name": "Comunicación"
+    },
+    {
+      "subgroup_id": 14,
+      "subgroup_name": "Plan de Emergencia"
+    },
+    {
+      "subgroup_id": 15,
+      "subgroup_name": "Notificación de Incidentes / Peligros"
+    },
+    {
+      "subgroup_id": 16,
+      "subgroup_name": "Prácticas de Trabajo Seguras"
+    },
+    {
+      "subgroup_id": 17,
+      "subgroup_name": "Inspecciones y Auditoría"
+    },
+    {
+      "subgroup_id": 18,
+      "subgroup_name": "Asuntos varios de Salud y Seguridad"
+    },
+    {
+      "subgroup_id": 19,
+      "subgroup_name": "Representante del sistema de calidad"
+    },
+    {
+      "subgroup_id": 20,
+      "subgroup_name": "Acreditación"
+    },
+    {
+      "subgroup_id": 21,
+      "subgroup_name": "Plan de Calidad"
+    },
+    {
+      "subgroup_id": 22,
+      "subgroup_name": "Adicionales"
+    }
+  ]
+}
