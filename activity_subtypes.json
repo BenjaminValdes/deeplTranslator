@@ -1,0 +1,3807 @@
+{
+"activity_subtypes": [
+	{
+		"activity_subtype_id" : 1,
+		"name" : "Cultivo de arroz"
+	},
+	{
+		"activity_subtype_id" : 2,
+		"name" : "Cultivo de trigo"
+	},
+	{
+		"activity_subtype_id" : 3,
+		"name" : "Cultivo de cereales n.c.p., excepto los de uso forrajero (Incluye alforfón, cebada cervecera, etc.)"
+	},
+	{
+		"activity_subtype_id" : 4,
+		"name" : "Cultivo de maíz"
+	},
+	{
+		"activity_subtype_id" : 5,
+		"name" : "Cultivo de cereales de uso forrajero n.c.p."
+	},
+	{
+		"activity_subtype_id" : 6,
+		"name" : "Cultivo de pastos de uso forrajero"
+	},
+	{
+		"activity_subtype_id" : 7,
+		"name" : "Cultivo de soja"
+	},
+	{
+		"activity_subtype_id" : 8,
+		"name" : "Cultivo de girasol"
+	},
+	{
+		"activity_subtype_id" : 9,
+		"name" : "Cultivo de oleaginosas n.c.p. excepto soja y girasol (Incluye los cultivos de oleaginosas para aceites comestibles y\/o uso industrial: cártamo, colza, jojoba, lino oleaginoso, maní, ricino, sésamo, tung, etc.)"
+	},
+	{
+		"activity_subtype_id" : 10,
+		"name" : "Cultivo de papa, batata y mandioca"
+	},
+	{
+		"activity_subtype_id" : 11,
+		"name" : "Cultivo de tomate"
+	},
+	{
+		"activity_subtype_id" : 12,
+		"name" : "Cultivo de bulbos, brotes, raíces y hortalizas de fruto n.c.p. (Incluye ají, ajo, alcaparra, berenjena, cebolla, calabaza, espárrago, frutilla, melón, pepino, pimiento, sandía, zanahoria, zapallo, zapallito, etc.)"
+	},
+	{
+		"activity_subtype_id" : 13,
+		"name" : "Cultivo de hortalizas de hoja y de otras hortalizas frescas (Incluye acelga, apio, coles, espinaca, lechuga, perejil, radicheta, repollo, etc.)"
+	},
+	{
+		"activity_subtype_id" : 14,
+		"name" : "Cultivo de legumbres frescas (Incluye arveja, chaucha, haba, lupino, etc.)"
+	},
+	{
+		"activity_subtype_id" : 15,
+		"name" : "Cultivo de legumbres secas (Incluye garbanzo, lenteja, poroto, etc.)"
+	},
+	{
+		"activity_subtype_id" : 16,
+		"name" : "Cultivo de tabaco"
+	},
+	{
+		"activity_subtype_id" : 17,
+		"name" : "Cultivo de algodón"
+	},
+	{
+		"activity_subtype_id" : 18,
+		"name" : "Cultivo de plantas para la obtención de fibras n.c.p. (Incluye abacá, cáñamo, formio, lino textil, maíz de Guinea, ramio, yute, etc.)"
+	},
+	{
+		"activity_subtype_id" : 19,
+		"name" : "Cultivo de flores"
+	},
+	{
+		"activity_subtype_id" : 20,
+		"name" : "Cultivo de plantas ornamentales"
+	},
+	{
+		"activity_subtype_id" : 21,
+		"name" : "Cultivos temporales n.c.p."
+	},
+	{
+		"activity_subtype_id" : 22,
+		"name" : "Cultivo de vid para vinificar"
+	},
+	{
+		"activity_subtype_id" : 23,
+		"name" : "Cultivo de uva de mesa"
+	},
+	{
+		"activity_subtype_id" : 24,
+		"name" : "Cultivo de frutas cítricas (Incluye bergamota, lima, limón, mandarina, naranja, pomelo, kinoto, etc.)"
+	},
+	{
+		"activity_subtype_id" : 25,
+		"name" : "Cultivo de manzana y pera"
+	},
+	{
+		"activity_subtype_id" : 26,
+		"name" : "Cultivo de frutas de pepita n.c.p. (Incluye membrillo, níspero, etc.)"
+	},
+	{
+		"activity_subtype_id" : 27,
+		"name" : "Cultivo de frutas de carozo (Incluye cereza, ciruela, damasco, durazno, pelón, etc.)"
+	},
+	{
+		"activity_subtype_id" : 28,
+		"name" : "Cultivo de frutas tropicales y subtropicales (Incluye banana, ananá, mamón, palta, etc.)"
+	},
+	{
+		"activity_subtype_id" : 29,
+		"name" : "Cultivo de frutas secas (Incluye almendra, avellana, castaña, nuez, pistacho, etc.)"
+	},
+	{
+		"activity_subtype_id" : 30,
+		"name" : "Cultivo de frutas n.c.p. (Incluye kiwi, arándanos, mora, grosella, etc.)"
+	},
+	{
+		"activity_subtype_id" : 31,
+		"name" : "Cultivo de caña de azúcar"
+	},
+	{
+		"activity_subtype_id" : 32,
+		"name" : "Cultivo de plantas sacaríferas n.c.p. (Incluye remolacha azucarera, etc.)"
+	},
+	{
+		"activity_subtype_id" : 33,
+		"name" : "Cultivo de frutos oleaginosos (Incluye el cultivo de olivo, coco, palma, etc.)"
+	},
+	{
+		"activity_subtype_id" : 34,
+		"name" : "Cultivo de yerba mate"
+	},
+	{
+		"activity_subtype_id" : 35,
+		"name" : "Cultivo de té y otras plantas cuyas hojas se utilizan para preparar infusiones"
+	},
+	{
+		"activity_subtype_id" : 36,
+		"name" : "Cultivo de especias y de plantas aromáticas y medicinales"
+	},
+	{
+		"activity_subtype_id" : 37,
+		"name" : "Cultivos perennes n.c.p."
+	},
+	{
+		"activity_subtype_id" : 38,
+		"name" : "Producción de semillas híbridas de cereales y oleaginosas"
+	},
+	{
+		"activity_subtype_id" : 39,
+		"name" : "Producción de semillas varietales o autofecundadas de cereales, oleaginosas, y forrajeras"
+	},
+	{
+		"activity_subtype_id" : 40,
+		"name" : "Producción de semillas de hortalizas y legumbres, flores y plantas ornamentales y árboles frutales"
+	},
+	{
+		"activity_subtype_id" : 41,
+		"name" : "Producción de semillas de cultivos agrícolas n.c.p."
+	},
+	{
+		"activity_subtype_id" : 42,
+		"name" : "Producción de otras formas de propagación de cultivos agrícolas (Incluye gajos, bulbos, estacas enraizadas o no, esquejes, plantines, etc.)"
+	},
+	{
+		"activity_subtype_id" : 43,
+		"name" : "Cría de ganado bovino, excepto la realizada en cabañas y para la producción de leche (Incluye: ganado bubalino)"
+	},
+	{
+		"activity_subtype_id" : 44,
+		"name" : "Invernada  de ganado bovino excepto el engorde en corrales (Feed-Lot)"
+	},
+	{
+		"activity_subtype_id" : 45,
+		"name" : "Engorde en corrales (Feed-Lot)"
+	},
+	{
+		"activity_subtype_id" : 46,
+		"name" : "Cría de ganado bovino realizada en cabañas (Incluye: ganado bubalino y la producción de semen)"
+	},
+	{
+		"activity_subtype_id" : 47,
+		"name" : "Cría de ganado equino, excepto la realizada en haras (Incluye equinos de trabajo, asnos, mulas, burdéganos)"
+	},
+	{
+		"activity_subtype_id" : 48,
+		"name" : "Cría de camélidos (Incluye alpaca, guanaco, llama, vicuña)"
+	},
+	{
+		"activity_subtype_id" : 49,
+		"name" : "Cría de ganado ovino -excepto en cabañas y para la  producción de lana y leche-"
+	},
+	{
+		"activity_subtype_id" : 50,
+		"name" : "Cría de ganado ovino realizada en cabañas"
+	},
+	{
+		"activity_subtype_id" : 51,
+		"name" : "Cría de ganado caprino -excepto la realizada en cabañas y para producción de pelos y de leche-"
+	},
+	{
+		"activity_subtype_id" : 52,
+		"name" : "Cría de ganado caprino realizada en cabañas"
+	},
+	{
+		"activity_subtype_id" : 53,
+		"name" : "Cría de ganado porcino, excepto la realizada en cabañas"
+	},
+	{
+		"activity_subtype_id" : 54,
+		"name" : "Cría de ganado porcino realizado en cabañas"
+	},
+	{
+		"activity_subtype_id" : 55,
+		"name" : "Producción de leche bovina (Incluye la cría para la producción de leche de vaca y la producción de leche bubalina)"
+	},
+	{
+		"activity_subtype_id" : 56,
+		"name" : "Producción de leche de oveja y de cabra"
+	},
+	{
+		"activity_subtype_id" : 57,
+		"name" : "Producción de lana y pelo de oveja y cabra (cruda)"
+	},
+	{
+		"activity_subtype_id" : 58,
+		"name" : "Producción de pelos de ganado n.c.p."
+	},
+	{
+		"activity_subtype_id" : 59,
+		"name" : "Cría de aves de corral, excepto para la producción de huevos"
+	},
+	{
+		"activity_subtype_id" : 60,
+		"name" : "Producción de huevos"
+	},
+	{
+		"activity_subtype_id" : 61,
+		"name" : "Apicultura (Incluye la producción de miel, jalea real, polen, propóleo, etc.)"
+	},
+	{
+		"activity_subtype_id" : 62,
+		"name" : "Cunicultura"
+	},
+	{
+		"activity_subtype_id" : 63,
+		"name" : "Cría de animales pelíferos, pilíferos y plumíferos, excepto de las especies ganaderas (Incluye cría de visón, nutria, chinchilla, reptiles, etc.)"
+	},
+	{
+		"activity_subtype_id" : 64,
+		"name" : "Cría de animales y obtención de productos de origen animal, n.c.p. (Incluye ciervo, gato, gusano de seda, lombriz, pájaro, perro, rana, animales para experimentación, caracoles vivos, frescos, congelados y secos -excepto marinos-, cera de insectos excepto la de abeja, etc.)"
+	},
+	{
+		"activity_subtype_id" : 65,
+		"name" : "Servicios de labranza, siembra, transplante  y  cuidados culturales"
+	},
+	{
+		"activity_subtype_id" : 66,
+		"name" : "Servicios de pulverización, desinfección y fumigación terrestre"
+	},
+	{
+		"activity_subtype_id" : 67,
+		"name" : "Servicios de pulverización, desinfección y fumigación aérea"
+	},
+	{
+		"activity_subtype_id" : 68,
+		"name" : "Servicios de maquinaria agrícola n.c.p., excepto los de cosecha mecánica (Incluye clasificado y\/o tamañado, rastrillado, roturación de terreno, etc.)"
+	},
+	{
+		"activity_subtype_id" : 69,
+		"name" : "Servicios de cosecha mecánica (Incluye la cosecha mecánica de granos, caña de azúcar, algodón, forrajes, el enfardado, enrollado, etc.)"
+	},
+	{
+		"activity_subtype_id" : 70,
+		"name" : "Servicios de contratistas de mano de obra agrícola (Incluye la poda de árboles, transplante, cosecha manual de citrus, algodón, etc.)"
+	},
+	{
+		"activity_subtype_id" : 71,
+		"name" : "Servicios de post cosecha (Incluye servicios de lavado de papas,  acondicionamiento, limpieza, etc, de granos antes de ir a los mercados primarios), (Excluye los servicios de procesamiento de semillas para su siembra)"
+	},
+	{
+		"activity_subtype_id" : 72,
+		"name" : "Servicios de procesamiento de semillas para su siembra (Incluye la selección de semillas)"
+	},
+	{
+		"activity_subtype_id" : 73,
+		"name" : "Servicios de apoyo agrícolas n.c.p (Incluye  explotación de sistemas de riego, injertos de plantas, construcción y plantación de almácigos, alquiler de colmenas, etc.), (No incluye mantenimiento de jardines, parques y cementerios: actividad 813000, planificación y diseño paisajista: actividad 711009)"
+	},
+	{
+		"activity_subtype_id" : 74,
+		"name" : "Inseminación artificial y servicios n.c.p. para mejorar la reproducción de los animales y el rendimiento de sus productos"
+	},
+	{
+		"activity_subtype_id" : 75,
+		"name" : "Servicios de contratistas de mano de obra pecuaria (Incluye arreo, castración de aves, pasturaje,  etc.)"
+	},
+	{
+		"activity_subtype_id" : 76,
+		"name" : "Servicios de esquila de animales"
+	},
+	{
+		"activity_subtype_id" : 77,
+		"name" : "Servicios para el control de plagas, baños parasiticidas, etc."
+	},
+	{
+		"activity_subtype_id" : 78,
+		"name" : "Albergue y cuidado de  animales de terceros"
+	},
+	{
+		"activity_subtype_id" : 79,
+		"name" : "Servicios de apoyo pecuarios n.c.p."
+	},
+	{
+		"activity_subtype_id" : 80,
+		"name" : "Caza y repoblación  de animales de caza (Incluye la caza de animales para obtener carne, pieles y cueros y la captura de animales vivos para zoológicos, animales de compañía, para investigación, etc.)"
+	},
+	{
+		"activity_subtype_id" : 81,
+		"name" : "Servicios de apoyo para la caza"
+	},
+	{
+		"activity_subtype_id" : 82,
+		"name" : "Plantación de bosques"
+	},
+	{
+		"activity_subtype_id" : 83,
+		"name" : "Repoblación y conservación de bosques nativos y zonas forestadas"
+	},
+	{
+		"activity_subtype_id" : 84,
+		"name" : "Explotación de viveros forestales (Incluye propagación de especies forestales)"
+	},
+	{
+		"activity_subtype_id" : 85,
+		"name" : "Extracción de productos forestales de bosques cultivados (Incluye tala de árboles, desbaste de troncos y producción de madera en bruto, leña, postes)"
+	},
+	{
+		"activity_subtype_id" : 86,
+		"name" : "Extracción de productos forestales de bosques nativos (Incluye tala de árboles, desbaste de troncos y producción de madera en bruto, leña, postes, la extracción de rodrigones, varas, varillas y la recolección de  gomas naturales, líquenes, musgos, resinas y de rosa mosqueta,etc)"
+	},
+	{
+		"activity_subtype_id" : 87,
+		"name" : "Servicios forestales para la extracción de madera (Incluye tala de árboles, acarreo y transporte en el interior del bosque, servicios realizados por terceros, etc.)"
+	},
+	{
+		"activity_subtype_id" : 88,
+		"name" : "Servicios forestales excepto los servicios para la extracción de madera (Incluye protección contra incendios, evaluación de masas forestales en pie, estimación del valor de la madera, etc.)"
+	},
+	{
+		"activity_subtype_id" : 89,
+		"name" : "Pesca de organismos marinos, excepto cuando es realizada en buques procesadores"
+	},
+	{
+		"activity_subtype_id" : 90,
+		"name" : "Pesca y elaboración de productos marinos realizada a bordo de buques procesadores"
+	},
+	{
+		"activity_subtype_id" : 91,
+		"name" : "Recolección de organismos marinos excepto peces, crustáceos y moluscos (Incluye la recolección de algas marinas)"
+	},
+	{
+		"activity_subtype_id" : 92,
+		"name" : "Pesca continental: fluvial y lacustre"
+	},
+	{
+		"activity_subtype_id" : 93,
+		"name" : "Servicios de apoyo para la pesca"
+	},
+	{
+		"activity_subtype_id" : 94,
+		"name" : "Explotación de criaderos de peces, granjas piscícolas y otros frutos acuáticos  (acuicultura)"
+	},
+	{
+		"activity_subtype_id" : 95,
+		"name" : "Extracción y aglomeración de carbón (Incluye la producción de hulla no aglomerada, antracita, carbón bituminoso no aglomerado, ovoides y combustibles sólidos análogos a base de hulla, etc.)"
+	},
+	{
+		"activity_subtype_id" : 96,
+		"name" : "Extracción y aglomeración de lignito (Incluye la producción de lignito aglomerado y no aglomerado)"
+	},
+	{
+		"activity_subtype_id" : 97,
+		"name" : "Extracción de petróleo crudo (Incluye arenas alquitraníferas, esquistos bituminosos o lutitas, aceites de petróleo y de minerales bituminosos, petróleo, etc.)"
+	},
+	{
+		"activity_subtype_id" : 98,
+		"name" : "Extracción de gas natural (Incluye gas natural licuado y gaseoso)"
+	},
+	{
+		"activity_subtype_id" : 99,
+		"name" : "Extracción de minerales de hierro (Incluye hematitas, limonitas, magnetitas, siderita, etc.)"
+	},
+	{
+		"activity_subtype_id" : 100,
+		"name" : "Extracción de minerales y concentrados de uranio y torio"
+	},
+	{
+		"activity_subtype_id" : 101,
+		"name" : "Extracción de metales preciosos"
+	},
+	{
+		"activity_subtype_id" : 102,
+		"name" : "Extracción de minerales metalíferos no ferrosos n.c.p., excepto minerales de uranio y torio (Incluye aluminio, cobre, estaño, manganeso, níquel, plomo, volframio, antimonio, bismuto, cinc, molibdeno, titanio, circonio, niobio, tántalo, vanadio, cromo, cobalto)"
+	},
+	{
+		"activity_subtype_id" : 103,
+		"name" : "Extracción de rocas ornamentales (Incluye areniscas, cuarcita, dolomita, granito, mármol, piedra laja, pizarra, serpentina, etc.)"
+	},
+	{
+		"activity_subtype_id" : 104,
+		"name" : "Extracción de piedra caliza y yeso (Incluye caliza, castina, conchilla, riolita, yeso natural, anhidrita, etc.)"
+	},
+	{
+		"activity_subtype_id" : 105,
+		"name" : "Extracción de arenas, canto rodado y triturados pétreos (Incluye arena para construcción, arena silícea, otras arenas naturales, canto rodado, dolomita triturada, salto triturado, piedra partida  y  otros triturados pétreos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 106,
+		"name" : "Extracción de arcilla y caolín (Incluye andalucita, arcillas, bentonita, caolín, pirofilita, silimanita, mullita, tierra de chamota o de dinas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 107,
+		"name" : "Extracción de minerales para la fabricación de abonos excepto turba (Incluye guano, silvita, silvinita y otras sales de potasio naturales, etc.)"
+	},
+	{
+		"activity_subtype_id" : 108,
+		"name" : "Extracción de minerales para la fabricación de productos químicos (Incluye azufre, boracita e hidroboracita, calcita, celestina, colemanita, fluorita, litio y sales de litio naturales, sulfato de aluminio, sulfato de hierro, sulfato de magnesio, sulfato de sodio, ocres,  tinkal, ulexita, asfaltita, laterita, etc.)"
+	},
+	{
+		"activity_subtype_id" : 109,
+		"name" : "Extracción y aglomeración de turba (Incluye la producción de turba utilizada como corrector de suelos)"
+	},
+	{
+		"activity_subtype_id" : 110,
+		"name" : "Extracción de sal"
+	},
+	{
+		"activity_subtype_id" : 111,
+		"name" : "Explotación de minas y canteras n.c.p. (Incluye amianto, cuarzo, diatomita, piedra pómez, ágata, agua marina, amatista, cristal de roca, rodocrosita, topacio, corindón, feldespato, mica, zeolita, perlita, granulado volcánico, puzolana, toba, talco, vermiculita, tosca, grafito, etc.)"
+	},
+	{
+		"activity_subtype_id" : 112,
+		"name" : "Servicios de apoyo para la extracción de petróleo y gas natural"
+	},
+	{
+		"activity_subtype_id" : 113,
+		"name" : "Servicios de apoyo para la minería, excepto para la extracción de petróleo y gas natual"
+	},
+	{
+		"activity_subtype_id" : 114,
+		"name" : "Matanza de ganado bovino (Incluye búfalos)"
+	},
+	{
+		"activity_subtype_id" : 115,
+		"name" : "Procesamiento de carne de ganado bovino"
+	},
+	{
+		"activity_subtype_id" : 116,
+		"name" : "Saladero y peladero de cueros de ganado bovino"
+	},
+	{
+		"activity_subtype_id" : 117,
+		"name" : "Producción y procesamiento de carne de aves"
+	},
+	{
+		"activity_subtype_id" : 118,
+		"name" : "Elaboración de fiambres y embutidos"
+	},
+	{
+		"activity_subtype_id" : 119,
+		"name" : "Matanza de ganado excepto el bovino y procesamiento de su carne (Incluye ganado ovino, porcino, equino, etc.)"
+	},
+	{
+		"activity_subtype_id" : 120,
+		"name" : "Fabricación de aceites y grasas de origen animal"
+	},
+	{
+		"activity_subtype_id" : 184,
+		"name" : "Fabricación de tejidos de punto"
+	},
+	{
+		"activity_subtype_id" : 185,
+		"name" : "Fabricación de frazadas, mantas, ponchos, colchas, cobertores, etc."
+	},
+	{
+		"activity_subtype_id" : 121,
+		"name" : "Matanza de animales n.c.p. y procesamiento de su carne, elaboración de subproductos cárnicos n.c.p. (Incluye producción de carne fresca, refrigerada o congelada de liebre, conejo, animales de caza, etc.)"
+	},
+	{
+		"activity_subtype_id" : 122,
+		"name" : "Elaboración de pescados de mar, crustáceos y  productos marinos"
+	},
+	{
+		"activity_subtype_id" : 123,
+		"name" : "Elaboración de pescados de ríos y lagunas y otros productos fluviales y lacustres"
+	},
+	{
+		"activity_subtype_id" : 124,
+		"name" : "Fabricación de aceites, grasas, harinas y productos a base de pescados"
+	},
+	{
+		"activity_subtype_id" : 125,
+		"name" : "Preparación de conservas de frutas, hortalizas y legumbres"
+	},
+	{
+		"activity_subtype_id" : 126,
+		"name" : "Elaboración y envasado de dulces, mermeladas y jaleas"
+	},
+	{
+		"activity_subtype_id" : 127,
+		"name" : "Elaboración de jugos naturales y sus concentrados, de frutas, hortalizas y legumbres (No incluye la elaboración de jugos para diluir o en polvo llamados \"sintéticos\" o de un contenido en jugos naturales inferior al 50% actividad 110492)"
+	},
+	{
+		"activity_subtype_id" : 128,
+		"name" : "Elaboración de frutas, hortalizas y legumbres congeladas"
+	},
+	{
+		"activity_subtype_id" : 129,
+		"name" : "Elaboración de hortalizas y legumbres deshidratadas o desecadas, preparación n.c.p. de hortalizas y legumbres (Incluye la elaboración de harina y escamas de papa, sémola de hortalizas y legumbres,  hortalizas y legumbres deshidratadas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 130,
+		"name" : "Elaboración de frutas deshidratadas o desecadas, preparación n.c.p. de frutas"
+	},
+	{
+		"activity_subtype_id" : 131,
+		"name" : "Elaboración de aceites y grasas vegetales  sin refinar"
+	},
+	{
+		"activity_subtype_id" : 132,
+		"name" : "Elaboración de aceite de oliva"
+	},
+	{
+		"activity_subtype_id" : 133,
+		"name" : "Elaboración de aceites y grasas vegetales refinados (No incluye aceite de oliva -actividad 104012-)"
+	},
+	{
+		"activity_subtype_id" : 134,
+		"name" : "Elaboración de margarinas y grasas vegetales comestibles similares"
+	},
+	{
+		"activity_subtype_id" : 135,
+		"name" : "Elaboración de leches y productos lácteos deshidratados (Incluye la obtención de quesos, helados, manteca, postres lácteos, yogur y otros productos lácteos fermentados o coagulados cuando son obtenidos en forma integrada con la producción de leche)"
+	},
+	{
+		"activity_subtype_id" : 136,
+		"name" : "Elaboración de quesos (Incluye la producción de suero)"
+	},
+	{
+		"activity_subtype_id" : 137,
+		"name" : "Elaboración industrial de helados"
+	},
+	{
+		"activity_subtype_id" : 138,
+		"name" : "Elaboración de productos lácteos n.c.p. (Incluye la producción de caseínas, manteca, postres, etc., cuando no son obtenidos e forma integrada con la producción de leche)"
+	},
+	{
+		"activity_subtype_id" : 139,
+		"name" : "Molienda de trigo"
+	},
+	{
+		"activity_subtype_id" : 140,
+		"name" : "Preparación de arroz"
+	},
+	{
+		"activity_subtype_id" : 141,
+		"name" : "Elaboración de alimentos a base de cereales"
+	},
+	{
+		"activity_subtype_id" : 142,
+		"name" : "Preparación y molienda de legumbres y cereales n.c.p., excepto trigo y arroz y molienda húmeda de maíz"
+	},
+	{
+		"activity_subtype_id" : 143,
+		"name" : "Elaboración de almidones y productos derivados del almidón, molienda húmeda de maíz (Incluye la elaboración de glucosa y gluten)"
+	},
+	{
+		"activity_subtype_id" : 144,
+		"name" : "Elaboración de galletitas y bizcochos"
+	},
+	{
+		"activity_subtype_id" : 145,
+		"name" : "Elaboración industrial de productos de panadería, excepto galletitas y bizcochos (Incluye la elaboración de productos de panadería frescos, congelados y secos)"
+	},
+	{
+		"activity_subtype_id" : 146,
+		"name" : "Elaboración de productos de panadería n.c.p. (Incluye la elaboración de pan, facturas, churros, pre-pizzas, masas de hojaldre, masas fritas, tortas, tartas, etc), (No incluye la fabricación de sándwich 561040)"
+	},
+	{
+		"activity_subtype_id" : 147,
+		"name" : "Elaboración de azúcar"
+	},
+	{
+		"activity_subtype_id" : 148,
+		"name" : "Elaboración de cacao y chocolate"
+	},
+	{
+		"activity_subtype_id" : 149,
+		"name" : "Elaboración de productos de confitería n.c.p. (Incluye alfajores, caramelos, frutas confitadas, pastillas, gomas de mascar, etc.)"
+	},
+	{
+		"activity_subtype_id" : 150,
+		"name" : "Elaboración de pastas alimentarias frescas"
+	},
+	{
+		"activity_subtype_id" : 151,
+		"name" : "Elaboración de pastas alimentarias secas"
+	},
+	{
+		"activity_subtype_id" : 152,
+		"name" : "Elaboración de comidas preparadas para reventa (Incluye la elaboración de comidas preparadas para reventa en supermercados, kioscos, cafeterías, etc.)"
+	},
+	{
+		"activity_subtype_id" : 153,
+		"name" : "Tostado, torrado y molienda de café"
+	},
+	{
+		"activity_subtype_id" : 154,
+		"name" : "Elaboración y molienda de hierbas aromáticas y  especias"
+	},
+	{
+		"activity_subtype_id" : 155,
+		"name" : "Preparación de hojas de té"
+	},
+	{
+		"activity_subtype_id" : 156,
+		"name" : "Elaboración de yerba mate"
+	},
+	{
+		"activity_subtype_id" : 157,
+		"name" : "Elaboración de extractos, jarabes y concentrados"
+	},
+	{
+		"activity_subtype_id" : 158,
+		"name" : "Elaboración de vinagres"
+	},
+	{
+		"activity_subtype_id" : 159,
+		"name" : "Elaboración de productos alimenticios n.c.p. (Incluye la elaboración de polvos para preparar postres y gelatinas, levadura, productos para copetín, sopas, sal de mesa, mayonesa, mostaza, etc.)"
+	},
+	{
+		"activity_subtype_id" : 160,
+		"name" : "Elaboración de alimentos preparados para animales"
+	},
+	{
+		"activity_subtype_id" : 161,
+		"name" : "Servicios industriales para la elaboración de alimentos y bebidas (Incluye procesos y operaciones que permiten que el producto alimenticio y las bebidas estén en estado higiénico sanitario para consumo humano o para su utilización como materias primas de la industria)."
+	},
+	{
+		"activity_subtype_id" : 162,
+		"name" : "Destilación, rectificación y mezcla de bebidas espiritosas"
+	},
+	{
+		"activity_subtype_id" : 163,
+		"name" : "Elaboración de mosto"
+	},
+	{
+		"activity_subtype_id" : 164,
+		"name" : "Elaboración de vinos (Incluye el fraccionamiento)"
+	},
+	{
+		"activity_subtype_id" : 165,
+		"name" : "Elaboración de sidra y otras bebidas alcohólicas fermentadas"
+	},
+	{
+		"activity_subtype_id" : 166,
+		"name" : "Elaboración de cerveza, bebidas malteadas y malta"
+	},
+	{
+		"activity_subtype_id" : 167,
+		"name" : "Embotellado de aguas naturales y minerales"
+	},
+	{
+		"activity_subtype_id" : 168,
+		"name" : "Fabricación de sodas"
+	},
+	{
+		"activity_subtype_id" : 169,
+		"name" : "Elaboración de bebidas gaseosas, excepto soda"
+	},
+	{
+		"activity_subtype_id" : 170,
+		"name" : "Elaboración de hielo"
+	},
+	{
+		"activity_subtype_id" : 171,
+		"name" : "Elaboración de bebidas no alcohólicas n.c.p. (Incluye los jugos para diluir o en polvo llamados \"sintéticos\" o de un contenido en jugos naturales inferior al 50%), (No incluye a los jugos naturales y sus concentrados, de frutas, hortalizas y legumbres - actividad 103020)"
+	},
+	{
+		"activity_subtype_id" : 172,
+		"name" : "Preparación de hojas de tabaco"
+	},
+	{
+		"activity_subtype_id" : 173,
+		"name" : "Elaboración de cigarrillos"
+	},
+	{
+		"activity_subtype_id" : 174,
+		"name" : "Elaboración de productos de tabaco n.c.p."
+	},
+	{
+		"activity_subtype_id" : 175,
+		"name" : "Preparación de fibras textiles vegetales, desmotado de algodón (Incluye la preparación de fibras de yute, ramio, cáñamo y lino)"
+	},
+	{
+		"activity_subtype_id" : 176,
+		"name" : "Preparación de fibras animales de uso textil"
+	},
+	{
+		"activity_subtype_id" : 177,
+		"name" : "Fabricación de hilados textiles de lana, pelos y sus mezclas"
+	},
+	{
+		"activity_subtype_id" : 178,
+		"name" : "Fabricación de hilados textiles de algodón y sus mezclas"
+	},
+	{
+		"activity_subtype_id" : 179,
+		"name" : "Fabricación de hilados textiles n.c.p., excepto de lana  y de algodón"
+	},
+	{
+		"activity_subtype_id" : 180,
+		"name" : "Fabricación de tejidos (telas) planos de lana y sus mezclas, incluye hilanderías y tejedurías integradas"
+	},
+	{
+		"activity_subtype_id" : 181,
+		"name" : "Fabricación de tejidos (telas) planos de algodón y sus mezclas, incluye hilanderías y tejedurías integradas"
+	},
+	{
+		"activity_subtype_id" : 182,
+		"name" : "Fabricación de tejidos (telas) planos de fibras textiles n.c.p., incluye hilanderías y tejedurías integradas"
+	},
+	{
+		"activity_subtype_id" : 183,
+		"name" : "Acabado de productos textiles"
+	},
+	{
+		"activity_subtype_id" : 186,
+		"name" : "Fabricación de ropa de cama y mantelería"
+	},
+	{
+		"activity_subtype_id" : 187,
+		"name" : "Fabricación de artículos de lona y sucedáneos de lona"
+	},
+	{
+		"activity_subtype_id" : 188,
+		"name" : "Fabricación de bolsas de materiales textiles para productos a granel"
+	},
+	{
+		"activity_subtype_id" : 189,
+		"name" : "Fabricación de artículos confeccionados de materiales textiles n.c.p., excepto prendas de vestir"
+	},
+	{
+		"activity_subtype_id" : 190,
+		"name" : "Fabricación de tapices y alfombras"
+	},
+	{
+		"activity_subtype_id" : 191,
+		"name" : "Fabricación de cuerdas, cordeles, bramantes y redes"
+	},
+	{
+		"activity_subtype_id" : 192,
+		"name" : "Fabricación de productos textiles n.c.p."
+	},
+	{
+		"activity_subtype_id" : 193,
+		"name" : "Confección de ropa interior, prendas para dormir y para la playa"
+	},
+	{
+		"activity_subtype_id" : 194,
+		"name" : "Confección de ropa de trabajo, uniformes y guardapolvos"
+	},
+	{
+		"activity_subtype_id" : 195,
+		"name" : "Confección de prendas de vestir para bebés y niños"
+	},
+	{
+		"activity_subtype_id" : 196,
+		"name" : "Confección de prendas deportivas"
+	},
+	{
+		"activity_subtype_id" : 197,
+		"name" : "Fabricación de accesorios de vestir excepto de cuero"
+	},
+	{
+		"activity_subtype_id" : 198,
+		"name" : "Confección de prendas de vestir n.c.p., excepto prendas de piel, cuero y de punto"
+	},
+	{
+		"activity_subtype_id" : 199,
+		"name" : "Fabricación de accesorios de vestir de cuero"
+	},
+	{
+		"activity_subtype_id" : 200,
+		"name" : "Confección de prendas de vestir de cuero"
+	},
+	{
+		"activity_subtype_id" : 201,
+		"name" : "Terminación y teñido de pieles, fabricación de artículos de piel"
+	},
+	{
+		"activity_subtype_id" : 202,
+		"name" : "Fabricación de medias"
+	},
+	{
+		"activity_subtype_id" : 203,
+		"name" : "Fabricación de prendas de vestir y artículos similares de punto"
+	},
+	{
+		"activity_subtype_id" : 204,
+		"name" : "Servicios industriales para la industria confeccionista (Incluye procesos de planchado y acondicionamiento de prendas: teñido, gastado a la piedra (stone wash), impermeabilizado, lavaderos y secaderos industriales, etc.)"
+	},
+	{
+		"activity_subtype_id" : 205,
+		"name" : "Curtido y terminación de cueros"
+	},
+	{
+		"activity_subtype_id" : 206,
+		"name" : "Fabricación de maletas, bolsos de mano y similares, artículos de talabartería y artículos de cuero n.c.p."
+	},
+	{
+		"activity_subtype_id" : 207,
+		"name" : "Fabricación de calzado de cuero, excepto calzado deportivo y ortopédico"
+	},
+	{
+		"activity_subtype_id" : 208,
+		"name" : "Fabricación de calzado de materiales n.c.p., excepto calzado deportivo y ortopédico"
+	},
+	{
+		"activity_subtype_id" : 209,
+		"name" : "Fabricación de calzado deportivo"
+	},
+	{
+		"activity_subtype_id" : 210,
+		"name" : "Fabricación de partes de calzado"
+	},
+	{
+		"activity_subtype_id" : 211,
+		"name" : "Aserrado y cepillado de madera  nativa"
+	},
+	{
+		"activity_subtype_id" : 212,
+		"name" : "Aserrado y cepillado de madera implantada"
+	},
+	{
+		"activity_subtype_id" : 213,
+		"name" : "Fabricación de hojas de madera para enchapado, fabricación de tableros contrachapados, tableros laminados, tableros de partículas y tableros y paneles n.c.p. (Incluye la fabricación de madera terciada y  machimbre)"
+	},
+	{
+		"activity_subtype_id" : 214,
+		"name" : "Fabricación de aberturas y estructuras de madera para la construcción"
+	},
+	{
+		"activity_subtype_id" : 215,
+		"name" : "Fabricación de viviendas prefabricadas de madera"
+	},
+	{
+		"activity_subtype_id" : 216,
+		"name" : "Fabricación de recipientes de madera"
+	},
+	{
+		"activity_subtype_id" : 217,
+		"name" : "Fabricación de ataúdes"
+	},
+	{
+		"activity_subtype_id" : 218,
+		"name" : "Fabricación de artículos de madera en tornerías"
+	},
+	{
+		"activity_subtype_id" : 219,
+		"name" : "Fabricación de productos de corcho"
+	},
+	{
+		"activity_subtype_id" : 220,
+		"name" : "Fabricación de productos de madera n.c.p, fabricación de artículos de paja y materiales trenzables (Incluye enmarcado de cuadros, carpintería cuando no explicita especialidad)"
+	},
+	{
+		"activity_subtype_id" : 221,
+		"name" : "Fabricación de pasta de madera"
+	},
+	{
+		"activity_subtype_id" : 222,
+		"name" : "Fabricación de papel y cartón excepto envases"
+	},
+	{
+		"activity_subtype_id" : 223,
+		"name" : "Fabricación de papel ondulado y envases de papel"
+	},
+	{
+		"activity_subtype_id" : 224,
+		"name" : "Fabricación de cartón ondulado y envases de cartón"
+	},
+	{
+		"activity_subtype_id" : 225,
+		"name" : "Fabricación de artículos de papel y cartón de uso doméstico e higiénico sanitario"
+	},
+	{
+		"activity_subtype_id" : 226,
+		"name" : "Fabricación de artículos de papel y cartón n.c.p. (No incluye el papel de lija:  239900)"
+	},
+	{
+		"activity_subtype_id" : 227,
+		"name" : "Impresión de diarios y revistas"
+	},
+	{
+		"activity_subtype_id" : 228,
+		"name" : "Impresión n.c.p., excepto de diarios y revistas"
+	},
+	{
+		"activity_subtype_id" : 229,
+		"name" : "Servicios relacionados con la impresión"
+	},
+	{
+		"activity_subtype_id" : 230,
+		"name" : "Reproducción de grabaciones"
+	},
+	{
+		"activity_subtype_id" : 231,
+		"name" : "Fabricación de productos de hornos de coque"
+	},
+	{
+		"activity_subtype_id" : 232,
+		"name" : "Fabricación de productos de la refinación del petróleo"
+	},
+	{
+		"activity_subtype_id" : 233,
+		"name" : "Fabricación de gases industriales y medicinales comprimidos o licuados"
+	},
+	{
+		"activity_subtype_id" : 234,
+		"name" : "Fabricación de curtientes naturales y sintéticos"
+	},
+	{
+		"activity_subtype_id" : 235,
+		"name" : "Fabricación de materias colorantes básicas, excepto pigmentos preparados"
+	},
+	{
+		"activity_subtype_id" : 236,
+		"name" : "Fabricación de combustible nuclear, sustancias y materiales radiactivos"
+	},
+	{
+		"activity_subtype_id" : 237,
+		"name" : "Fabricación de materias químicas inorgánicas básicas n.c.p."
+	},
+	{
+		"activity_subtype_id" : 238,
+		"name" : "Fabricación de materias químicas orgánicas básicas n.c.p. (Incluye la fabricación de alcoholes excepto el etílico,  sustancias químicas para la elaboración de sustancias plásticas, carbón vegetal, etc.)"
+	},
+	{
+		"activity_subtype_id" : 239,
+		"name" : "Fabricación de alcohol"
+	},
+	{
+		"activity_subtype_id" : 240,
+		"name" : "Fabricación de biocombustibles excepto alcohol"
+	},
+	{
+		"activity_subtype_id" : 241,
+		"name" : "Fabricación de abonos y compuestos de nitrógeno"
+	},
+	{
+		"activity_subtype_id" : 242,
+		"name" : "Fabricación de resinas y cauchos sintéticos"
+	},
+	{
+		"activity_subtype_id" : 243,
+		"name" : "Fabricación de materias plásticas en formas primarias n.c.p."
+	},
+	{
+		"activity_subtype_id" : 244,
+		"name" : "Fabricación de insecticidas, plaguicidas y  productos químicos de uso agropecuario"
+	},
+	{
+		"activity_subtype_id" : 245,
+		"name" : "Fabricación de pinturas, barnices y productos de revestimiento similares, tintas de imprenta y masillas"
+	},
+	{
+		"activity_subtype_id" : 246,
+		"name" : "Fabricación de preparados para limpieza, pulido y saneamiento"
+	},
+	{
+		"activity_subtype_id" : 247,
+		"name" : "Fabricación de jabones y detergentes"
+	},
+	{
+		"activity_subtype_id" : 248,
+		"name" : "Fabricación de cosméticos, perfumes y  productos de higiene y tocador"
+	},
+	{
+		"activity_subtype_id" : 249,
+		"name" : "Fabricación de explosivos y productos de pirotecnia"
+	},
+	{
+		"activity_subtype_id" : 250,
+		"name" : "Fabricación de colas, adhesivos, aprestos y cementos excepto los odontológicos obtenidos de sustancias minerales y vegetales"
+	},
+	{
+		"activity_subtype_id" : 251,
+		"name" : "Fabricación de productos químicos n.c.p. (Incluye la producción de aceites esenciales, tintas excepto para imprenta, etc.)"
+	},
+	{
+		"activity_subtype_id" : 252,
+		"name" : "Fabricación de fibras manufacturadas"
+	},
+	{
+		"activity_subtype_id" : 253,
+		"name" : "Servicios industriales para la fabricación de sustancias y productos químicos"
+	},
+	{
+		"activity_subtype_id" : 254,
+		"name" : "Fabricación de medicamentos de uso humano y productos farmacéuticos"
+	},
+	{
+		"activity_subtype_id" : 255,
+		"name" : "Fabricación de medicamentos de uso veterinario"
+	},
+	{
+		"activity_subtype_id" : 256,
+		"name" : "Fabricación de sustancias químicas para la elaboración de medicamentos"
+	},
+	{
+		"activity_subtype_id" : 257,
+		"name" : "Fabricación de productos de laboratorio y productos botánicos de uso farmaceútico n.c.p."
+	},
+	{
+		"activity_subtype_id" : 258,
+		"name" : "Fabricación de cubiertas y cámaras"
+	},
+	{
+		"activity_subtype_id" : 259,
+		"name" : "Recauchutado y renovación de cubiertas"
+	},
+	{
+		"activity_subtype_id" : 260,
+		"name" : "Fabricación de  autopartes de caucho excepto cámaras y cubiertas"
+	},
+	{
+		"activity_subtype_id" : 261,
+		"name" : "Fabricación  de productos de caucho n.c.p."
+	},
+	{
+		"activity_subtype_id" : 262,
+		"name" : "Fabricación de envases plásticos"
+	},
+	{
+		"activity_subtype_id" : 263,
+		"name" : "Fabricación de productos plásticos en formas básicas y artículos de plástico n.c.p., excepto muebles"
+	},
+	{
+		"activity_subtype_id" : 264,
+		"name" : "Fabricación de envases de vidrio"
+	},
+	{
+		"activity_subtype_id" : 265,
+		"name" : "Fabricación y elaboración de vidrio plano"
+	},
+	{
+		"activity_subtype_id" : 266,
+		"name" : "Fabricación de productos de vidrio n.c.p."
+	},
+	{
+		"activity_subtype_id" : 267,
+		"name" : "Fabricación de productos de cerámica refractaria"
+	},
+	{
+		"activity_subtype_id" : 268,
+		"name" : "Fabricación de ladrillos"
+	},
+	{
+		"activity_subtype_id" : 269,
+		"name" : "Fabricación de revestimientos cerámicos"
+	},
+	{
+		"activity_subtype_id" : 270,
+		"name" : "Fabricación de productos de arcilla y cerámica no refractaria para uso estructural n.c.p."
+	},
+	{
+		"activity_subtype_id" : 271,
+		"name" : "Fabricación de artículos sanitarios de cerámica"
+	},
+	{
+		"activity_subtype_id" : 272,
+		"name" : "Fabricación de objetos cerámicos para uso doméstico excepto artefactos sanitarios"
+	},
+	{
+		"activity_subtype_id" : 273,
+		"name" : "Fabricación de artículos de cerámica no refractaria para uso no estructural n.c.p."
+	},
+	{
+		"activity_subtype_id" : 274,
+		"name" : "Elaboración de cemento"
+	},
+	{
+		"activity_subtype_id" : 275,
+		"name" : "Elaboración de  yeso"
+	},
+	{
+		"activity_subtype_id" : 276,
+		"name" : "Elaboración de cal"
+	},
+	{
+		"activity_subtype_id" : 277,
+		"name" : "Fabricación de mosaicos"
+	},
+	{
+		"activity_subtype_id" : 278,
+		"name" : "Elaboración de hormigón"
+	},
+	{
+		"activity_subtype_id" : 279,
+		"name" : "Fabricación de premoldeadas para la construcción"
+	},
+	{
+		"activity_subtype_id" : 280,
+		"name" : "Fabricación de artículos de cemento, fibrocemento y yeso excepto hormigón y mosaicos"
+	},
+	{
+		"activity_subtype_id" : 281,
+		"name" : "Corte, tallado y acabado de la piedra (Incluye mármoles y granitos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 282,
+		"name" : "Fabricación de productos minerales no metálicos n.c.p. (Incluye la fabricación de abrasivos, lijas, membranas asfálticas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 283,
+		"name" : "Laminación y estirado. Producción de lingotes, planchas o barras fabricadas por operadores independientes"
+	},
+	{
+		"activity_subtype_id" : 284,
+		"name" : "Fabricación en industrias básicas de productos de hierro y acero n.c.p. (Incluye la producción de hojalata)"
+	},
+	{
+		"activity_subtype_id" : 285,
+		"name" : "Elaboración de aluminio primario y semielaborados de aluminio"
+	},
+	{
+		"activity_subtype_id" : 286,
+		"name" : "Fabricación de productos primarios de metales preciosos y metales no ferrosos n.c.p. y sus semielaborados"
+	},
+	{
+		"activity_subtype_id" : 287,
+		"name" : "Fundición de hierro y acero"
+	},
+	{
+		"activity_subtype_id" : 288,
+		"name" : "Fundición de metales no ferrosos"
+	},
+	{
+		"activity_subtype_id" : 289,
+		"name" : "Fabricación de carpintería metálica"
+	},
+	{
+		"activity_subtype_id" : 290,
+		"name" : "Fabricación de productos metálicos para uso estructural"
+	},
+	{
+		"activity_subtype_id" : 291,
+		"name" : "Fabricación de tanques, depósitos y recipientes de metal (Incluye la fabricación de silos)"
+	},
+	{
+		"activity_subtype_id" : 292,
+		"name" : "Fabricación de generadores de vapor"
+	},
+	{
+		"activity_subtype_id" : 293,
+		"name" : "Fabricación de armas y municiones"
+	},
+	{
+		"activity_subtype_id" : 294,
+		"name" : "Forjado, prensado, estampado y laminado de metales, pulvimetalurgia"
+	},
+	{
+		"activity_subtype_id" : 295,
+		"name" : "Tratamiento y revestimiento de metales y trabajos de metales en general"
+	},
+	{
+		"activity_subtype_id" : 296,
+		"name" : "Fabricación de herramientas manuales y sus accesorios"
+	},
+	{
+		"activity_subtype_id" : 297,
+		"name" : "Fabricación de artículos de cuchillería y utensillos de mesa y de cocina"
+	},
+	{
+		"activity_subtype_id" : 298,
+		"name" : "Fabricación de cerraduras, herrajes y artículos de ferretería n.c.p."
+	},
+	{
+		"activity_subtype_id" : 299,
+		"name" : "Fabricación de envases metálicos"
+	},
+	{
+		"activity_subtype_id" : 300,
+		"name" : "Fabricación de tejidos de alambre"
+	},
+	{
+		"activity_subtype_id" : 301,
+		"name" : "Fabricación de cajas de seguridad"
+	},
+	{
+		"activity_subtype_id" : 302,
+		"name" : "Fabricación de productos metálicos de tornería y\/o matricería"
+	},
+	{
+		"activity_subtype_id" : 303,
+		"name" : "Fabricación de productos elaborados de metal n.c.p."
+	},
+	{
+		"activity_subtype_id" : 304,
+		"name" : "Fabricación de componentes electrónicos"
+	},
+	{
+		"activity_subtype_id" : 305,
+		"name" : "Fabricación de equipos y productos informáticos"
+	},
+	{
+		"activity_subtype_id" : 306,
+		"name" : "Fabricación  de equipos de comunicaciones y transmisores de radio y televisión"
+	},
+	{
+		"activity_subtype_id" : 307,
+		"name" : "Fabricación de receptores de radio y televisión, aparatos de grabación y reproducción de sonido y video, y productos conexos"
+	},
+	{
+		"activity_subtype_id" : 308,
+		"name" : "Fabricación de instrumentos y aparatos para medir, verificar, ensayar, navegar y otros fines, excepto el equipo de control de procesos industriales"
+	},
+	{
+		"activity_subtype_id" : 309,
+		"name" : "Fabricación de equipo de control de procesos industriales"
+	},
+	{
+		"activity_subtype_id" : 310,
+		"name" : "Fabricación de relojes"
+	},
+	{
+		"activity_subtype_id" : 311,
+		"name" : "Fabricación de equipo médico y quirúrgico y de aparatos ortopédicos principalmente electrónicos y\/o eléctricos (Incluye equipos de laboratorio, esterilizadores, paneles para observación de radiografías, tornos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 312,
+		"name" : "Fabricación de equipo médico y quirúrgico y de aparatos ortopédicos n.c.p. (Incluye prótesis, aparatos ortopédicos, materiales para fracturas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 313,
+		"name" : "Fabricación de equipamiento e instrumentos ópticos y sus accesorios"
+	},
+	{
+		"activity_subtype_id" : 314,
+		"name" : "Fabricación de aparatos y accesorios para fotografía excepto películas, placas y papeles sensibles"
+	},
+	{
+		"activity_subtype_id" : 315,
+		"name" : "Fabricación de soportes ópticos y magnéticos (Incluye CD, disquetes, cintas magnéticas, tarjetas magnetizadas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 316,
+		"name" : "Fabricación de motores, generadores y transformadores eléctricos"
+	},
+	{
+		"activity_subtype_id" : 317,
+		"name" : "Fabricación de aparatos de distribución y control de la energía eléctrica"
+	},
+	{
+		"activity_subtype_id" : 318,
+		"name" : "Fabricación de acumuladores, pilas y baterías primarias"
+	},
+	{
+		"activity_subtype_id" : 319,
+		"name" : "Fabricación de cables de fibra óptica"
+	},
+	{
+		"activity_subtype_id" : 320,
+		"name" : "Fabricación de hilos y cables aislados n.c.p."
+	},
+	{
+		"activity_subtype_id" : 321,
+		"name" : "Fabricación de lámparas eléctricas y equipo de iluminación"
+	},
+	{
+		"activity_subtype_id" : 322,
+		"name" : "Fabricación de cocinas, calefones, estufas y calefactores no eléctricos"
+	},
+	{
+		"activity_subtype_id" : 323,
+		"name" : "Fabricación de heladeras, \"freezers\", lavarropas y secarropas"
+	},
+	{
+		"activity_subtype_id" : 324,
+		"name" : "Fabricación de ventiladores, extractores de aire, aspiradoras y similares"
+	},
+	{
+		"activity_subtype_id" : 325,
+		"name" : "Fabricación de planchas, calefactores, hornos eléctricos, tostadoras y otros aparatos generadores de calor"
+	},
+	{
+		"activity_subtype_id" : 326,
+		"name" : "Fabricación de aparatos de uso doméstico n.c.p. (Incluye enceradoras, pulidoras, batidoras, licuadoras y similares)"
+	},
+	{
+		"activity_subtype_id" : 327,
+		"name" : "Fabricación  de equipo eléctrico n.c.p."
+	},
+	{
+		"activity_subtype_id" : 328,
+		"name" : "Fabricación  de  motores  y  turbinas,  excepto  motores  para aeronaves, vehículos automotores   y motocicletas"
+	},
+	{
+		"activity_subtype_id" : 329,
+		"name" : "Fabricación de bombas"
+	},
+	{
+		"activity_subtype_id" : 330,
+		"name" : "Fabricación de compresores, grifos y válvulas"
+	},
+	{
+		"activity_subtype_id" : 331,
+		"name" : "Fabricación de cojinetes, engranajes, trenes de engranaje y piezas de transmisión"
+	},
+	{
+		"activity_subtype_id" : 332,
+		"name" : "Fabricación de hornos, hogares y quemadores"
+	},
+	{
+		"activity_subtype_id" : 511,
+		"name" : "Venta al por mayor de equipos de audio, video y televisión"
+	},
+	{
+		"activity_subtype_id" : 333,
+		"name" : "Fabricación de maquinaria y equipo de elevación y manipulación (Incluye la fabricación de ascensores, escaleras mecánicas, montacargas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 334,
+		"name" : "Fabricación de maquinaria y equipo de oficina, excepto equipo informático"
+	},
+	{
+		"activity_subtype_id" : 335,
+		"name" : "Fabricación de  maquinaria y equipo de uso general n.c.p. (Incluye la fabricación de equipos de aire acondicionado, matafuegos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 336,
+		"name" : "Fabricación de tractores"
+	},
+	{
+		"activity_subtype_id" : 337,
+		"name" : "Fabricación de maquinaria y equipo de uso agropecuario y forestal"
+	},
+	{
+		"activity_subtype_id" : 338,
+		"name" : "Fabricación de implementos de uso agropecuario"
+	},
+	{
+		"activity_subtype_id" : 339,
+		"name" : "Fabricación de máquinas herramienta"
+	},
+	{
+		"activity_subtype_id" : 340,
+		"name" : "Fabricación de maquinaria metalúrgica"
+	},
+	{
+		"activity_subtype_id" : 341,
+		"name" : "Fabricación de maquinaria para la explotación de minas y canteras y para obras de construcción (Incluye la fabricación de máquinas y equipos viales, equipos para la extracción de petróleo y gas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 342,
+		"name" : "Fabricación de maquinaria para la elaboración de alimentos, bebidas y tabaco"
+	},
+	{
+		"activity_subtype_id" : 343,
+		"name" : "Fabricación de maquinaria para la elaboración de productos textiles, prendas de vestir y cueros"
+	},
+	{
+		"activity_subtype_id" : 344,
+		"name" : "Fabricación de maquinaria para la industria del papel y las artes gráficas"
+	},
+	{
+		"activity_subtype_id" : 345,
+		"name" : "Fabricación de maquinaria y equipo de uso especial n.c.p."
+	},
+	{
+		"activity_subtype_id" : 346,
+		"name" : "Fabricación de vehículos automotores (Incluye la fabricación de motores para automotores)"
+	},
+	{
+		"activity_subtype_id" : 347,
+		"name" : "Fabricación de carrocerías para vehículos automotores, fabricación de remolques y semirremolques"
+	},
+	{
+		"activity_subtype_id" : 348,
+		"name" : "Rectificación de motores"
+	},
+	{
+		"activity_subtype_id" : 349,
+		"name" : "Fabricación de partes, piezas y accesorios para vehículos automotores y sus motores n.c.p."
+	},
+	{
+		"activity_subtype_id" : 350,
+		"name" : "Construcción y reparación de buques (Incluye construcción de estructuras flotantes)"
+	},
+	{
+		"activity_subtype_id" : 351,
+		"name" : "Construcción y reparación de embarcaciones de recreo y deporte"
+	},
+	{
+		"activity_subtype_id" : 352,
+		"name" : "Fabricación y reparación de locomotoras y de material rodante para transporte ferroviario"
+	},
+	{
+		"activity_subtype_id" : 353,
+		"name" : "Fabricación y reparación de aeronaves"
+	},
+	{
+		"activity_subtype_id" : 354,
+		"name" : "Fabricación de motocicletas"
+	},
+	{
+		"activity_subtype_id" : 355,
+		"name" : "Fabricación de bicicletas y de sillones de ruedas ortopédicos"
+	},
+	{
+		"activity_subtype_id" : 356,
+		"name" : "Fabricación de equipo de transporte n.c.p."
+	},
+	{
+		"activity_subtype_id" : 357,
+		"name" : "Fabricación de muebles y partes de muebles, principalmente de madera"
+	},
+	{
+		"activity_subtype_id" : 358,
+		"name" : "Fabricación de muebles y partes de muebles, excepto los que son principalmente de madera (metal, plástico, etc.)"
+	},
+	{
+		"activity_subtype_id" : 359,
+		"name" : "Fabricación de somieres y colchones"
+	},
+	{
+		"activity_subtype_id" : 360,
+		"name" : "Fabricación de joyas finas y artículos conexos"
+	},
+	{
+		"activity_subtype_id" : 361,
+		"name" : "Fabricación de objetos de platería"
+	},
+	{
+		"activity_subtype_id" : 362,
+		"name" : "Fabricación de bijouterie (Incluye la fabricación de joyas de fantasía y accesorios similares)"
+	},
+	{
+		"activity_subtype_id" : 363,
+		"name" : "Fabricación de instrumentos de música"
+	},
+	{
+		"activity_subtype_id" : 364,
+		"name" : "Fabricación de artículos de deporte (Incluye equipos de deporte para gimnasia y campos de juegos, equipos de pesca y camping, etc., excepto indumentaria deportiva: 141040)"
+	},
+	{
+		"activity_subtype_id" : 365,
+		"name" : "Fabricación de juegos y juguetes"
+	},
+	{
+		"activity_subtype_id" : 366,
+		"name" : "Fabricación de lápices, lapiceras,  bolígrafos, sellos y artículos similares para oficinas y artistas"
+	},
+	{
+		"activity_subtype_id" : 367,
+		"name" : "Fabricación de escobas, cepillos y pinceles"
+	},
+	{
+		"activity_subtype_id" : 368,
+		"name" : "Fabricación de carteles, señales e indicadores  -eléctricos o no-"
+	},
+	{
+		"activity_subtype_id" : 369,
+		"name" : "Fabricación de equipo de protección y seguridad, excepto calzado"
+	},
+	{
+		"activity_subtype_id" : 370,
+		"name" : "Industrias manufactureras n.c.p. (Incluye fabricación de paraguas, termos, pelucas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 371,
+		"name" : "Reparación y mantenimiento de productos de metal, excepto maquinaria y equipo"
+	},
+	{
+		"activity_subtype_id" : 372,
+		"name" : "Reparación y mantenimiento de maquinaria de uso general"
+	},
+	{
+		"activity_subtype_id" : 373,
+		"name" : "Reparación y mantenimiento de maquinaria y equipo de uso agropecuario y forestal"
+	},
+	{
+		"activity_subtype_id" : 374,
+		"name" : "Reparación y mantenimiento de maquinaria de uso especial n.c.p."
+	},
+	{
+		"activity_subtype_id" : 375,
+		"name" : "Reparación y mantenimiento de maquinaria y aparatos eléctricos"
+	},
+	{
+		"activity_subtype_id" : 376,
+		"name" : "Reparación y mantenimiento de máquinas y equipo n.c.p."
+	},
+	{
+		"activity_subtype_id" : 377,
+		"name" : "Instalación de maquinaria y equipos industriales"
+	},
+	{
+		"activity_subtype_id" : 378,
+		"name" : "Generación de energía térmica convencional (Incluye la producción de energía eléctrica mediante máquinas turbo-gas, turbo vapor, ciclo combinado y turbo diesel)"
+	},
+	{
+		"activity_subtype_id" : 379,
+		"name" : "Generación de energía térmica nuclear (Incluye la producción de energía eléctrica mediante combustible nuclear)"
+	},
+	{
+		"activity_subtype_id" : 380,
+		"name" : "Generación de energía hidráulica (Incluye la producción de energía eléctrica mediante centrales de bombeo)"
+	},
+	{
+		"activity_subtype_id" : 381,
+		"name" : "Generación de energía n.c.p. (Incluye la producción de energía eléctrica mediante fuentes de energía solar, biomasa, eólica, geotérmica, mareomotriz, etc.)"
+	},
+	{
+		"activity_subtype_id" : 382,
+		"name" : "Transporte de energía eléctrica"
+	},
+	{
+		"activity_subtype_id" : 383,
+		"name" : "Comercio mayorista de energía eléctrica"
+	},
+	{
+		"activity_subtype_id" : 384,
+		"name" : "Distribución de energía eléctrica"
+	},
+	{
+		"activity_subtype_id" : 385,
+		"name" : "Fabricación de gas y procesamiento de gas natural"
+	},
+	{
+		"activity_subtype_id" : 386,
+		"name" : "Distribución de combustibles gaseosos por tuberías (No incluye el transporte por gasoductos)"
+	},
+	{
+		"activity_subtype_id" : 387,
+		"name" : "Suministro de vapor y aire acondicionado"
+	},
+	{
+		"activity_subtype_id" : 388,
+		"name" : "Captación, depuración y distribución de agua de fuentes subterráneas"
+	},
+	{
+		"activity_subtype_id" : 389,
+		"name" : "Captación, depuración y distribución de agua de fuentes superficiales"
+	},
+	{
+		"activity_subtype_id" : 390,
+		"name" : "Servicios de depuración de aguas residuales, alcantarillado y cloacas"
+	},
+	{
+		"activity_subtype_id" : 391,
+		"name" : "Recolección, transporte, tratamiento y disposición final de residuos no peligrosos"
+	},
+	{
+		"activity_subtype_id" : 392,
+		"name" : "Recolección, transporte, tratamiento y disposición final de residuos peligrosos"
+	},
+	{
+		"activity_subtype_id" : 393,
+		"name" : "Recuperación de materiales y desechos metálicos"
+	},
+	{
+		"activity_subtype_id" : 394,
+		"name" : "Recuperación de materiales y desechos no metálicos"
+	},
+	{
+		"activity_subtype_id" : 395,
+		"name" : "Descontaminación y otros servicios de gestión de residuos"
+	},
+	{
+		"activity_subtype_id" : 396,
+		"name" : "Construcción, reforma y reparación de edificios residenciales (Incluye la construcción, reforma y reparación  de viviendas unifamiliares y multifamiliares, bungaloes, cabañas, casas de campo, departamentos, albergues para ancianos, niños, estudiantes, etc.)"
+	},
+	{
+		"activity_subtype_id" : 397,
+		"name" : "Construcción, reforma y reparación de edificios no residenciales (Incluye construcción, reforma y reparación de restaurantes, bares, campamentos, bancos, oficinas, galerías comerciales, estaciones de servicio, edificios para tráfico y comunicaciones, garajes, edificios industriales y depósitos, escuelas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 398,
+		"name" : "Construcción, reforma y reparación de obras de infraestructura para el transporte (Incluye la construcción, reforma y reparación de calles, autopistas, carreteras, puentes, túneles, vías férreas y pistas de aterrizaje, la señalización mediante pintura, etc.)"
+	},
+	{
+		"activity_subtype_id" : 399,
+		"name" : "Perforación de pozos de agua"
+	},
+	{
+		"activity_subtype_id" : 400,
+		"name" : "Construcción, reforma y reparación de redes distribución de electricidad, gas, agua, telecomunicaciones y de otros servicios públicos"
+	},
+	{
+		"activity_subtype_id" : 401,
+		"name" : "Construcción, reforma y reparación de obras hidráulicas (Incluye obras fluviales y canales, acueductos, diques, etc.)"
+	},
+	{
+		"activity_subtype_id" : 402,
+		"name" : "Construcción de obras de ingeniería civil n.c.p. (Incluye los trabajos generales de construcción para la minería y la industria,  de centrales eléctricas y nucleares, excavaciones de sepulturas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 403,
+		"name" : "Demolición y voladura de edificios y de sus partes (Incluye los trabajos de limpieza de escombros asociada a la demolición, los derribos y demolición de edificios y obras de ingeniería civil,.los trabajos de voladura y remoción de rocas)"
+	},
+	{
+		"activity_subtype_id" : 404,
+		"name" : "Movimiento de suelos y preparación de terrenos para obras (Incluye el drenaje, excavación de zanjas para construcciones diversas, el despeje de capas superficiales no contaminadas, movimientos de tierras para hacer terraplenes o desmontes previos a la construcción de vías, carreteras, autopistas, FFCC, etc.)"
+	},
+	{
+		"activity_subtype_id" : 405,
+		"name" : "Instalación de sistemas de iluminación, control y señalización eléctrica para el transporte"
+	},
+	{
+		"activity_subtype_id" : 406,
+		"name" : "Instalación, ejecución y mantenimiento de instalaciones eléctricas, electromecánicas y electrónicas n.c.p. (Incluye la instalación de antenas, pararrayos, sistemas de alarmas contra incendios y robos, sistemas de telecomunicación, etc.)"
+	},
+	{
+		"activity_subtype_id" : 407,
+		"name" : "Instalaciones de gas, agua, sanitarios y de climatización, con sus artefactos conexos (Incluye la instalación de compactadores, calderas, sistemas de calefacción central, etc.)"
+	},
+	{
+		"activity_subtype_id" : 408,
+		"name" : "Instalaciones de ascensores, montacargas y  escaleras mecánicas"
+	},
+	{
+		"activity_subtype_id" : 409,
+		"name" : "Aislamiento térmico, acústico, hídrico y antivibratorio"
+	},
+	{
+		"activity_subtype_id" : 410,
+		"name" : "Instalaciones para edificios y obras de ingeniería civil n.c.p. (Incluye instalación de puertas automáticas o giratorias)"
+	},
+	{
+		"activity_subtype_id" : 411,
+		"name" : "Instalaciones de carpintería, herrería de obra y artística (Incluye instalación de puertas y ventanas, carpintería metálica y no metálica, etc.)"
+	},
+	{
+		"activity_subtype_id" : 412,
+		"name" : "Terminación y revestimiento de paredes y pisos (Incluye yesería, salpicré, el pulido de pisos y la colocación de revestimientos de cerámicas, de piedra tallada, de suelos flexibles, parqué, baldosas, empapelados, etc.)"
+	},
+	{
+		"activity_subtype_id" : 413,
+		"name" : "Colocación de cristales en obra (Incluye la instalación y revestimiento de vidrio, espejos y otros artículos de vidrio, etc.)"
+	},
+	{
+		"activity_subtype_id" : 414,
+		"name" : "Pintura y trabajos de decoración"
+	},
+	{
+		"activity_subtype_id" : 415,
+		"name" : "Terminación de edificios n.c.p. (Incluye trabajos de ornamentación, limpieza exterior de edificios recién construídos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 416,
+		"name" : "Alquiler de equipo de construcción o demolición dotado de operarios"
+	},
+	{
+		"activity_subtype_id" : 417,
+		"name" : "Hincado de pilotes, cimentación y otros trabajos de hormigón armado"
+	},
+	{
+		"activity_subtype_id" : 418,
+		"name" : "Actividades especializadas de construcción n.c.p. (Incluye el alquiler, montaje y desmantelamiento de andamios,  la construcción de chimeneas y hornos industriales, el acorazamiento de cajas fuertes y cámaras frigoríficas, el armado e instalación de compuertas para diques, etc.)"
+	},
+	{
+		"activity_subtype_id" : 419,
+		"name" : "Venta de autos, camionetas y utilitarios nuevos (Incluye taxis, jeeps, 4x4 y vehículos similares)"
+	},
+	{
+		"activity_subtype_id" : 420,
+		"name" : "Venta de vehículos automotores nuevos n.c.p. (Incluye casas rodantes, trailers, camiones, remolques, ambulancias, ómnibus, microbuses y similares, cabezas tractoras, etc.)"
+	},
+	{
+		"activity_subtype_id" : 421,
+		"name" : "Venta de autos, camionetas y utilitarios, usados (Incluye taxis, jeeps, 4x4 y vehículos similares)"
+	},
+	{
+		"activity_subtype_id" : 422,
+		"name" : "Venta de vehículos automotores usados n.c.p. (Incluye, casas rodantes, trailers, camiones, remolques, ambulancias, ómnibus, microbuses y similares, cabezas tractoras, etc.)"
+	},
+	{
+		"activity_subtype_id" : 423,
+		"name" : "Lavado automático y manual de vehículos automotores"
+	},
+	{
+		"activity_subtype_id" : 424,
+		"name" : "Reparación de cámaras y cubiertas (Incluye reparación de llantas)"
+	},
+	{
+		"activity_subtype_id" : 425,
+		"name" : "Reparación de amortiguadores,  alineación de dirección y balanceo de ruedas"
+	},
+	{
+		"activity_subtype_id" : 426,
+		"name" : "Instalación y reparación de parabrisas, lunetas y ventanillas, cerraduras no eléctricas y grabado de cristales (Incluye instalación y reparación de aletas, burletes y colisas)"
+	},
+	{
+		"activity_subtype_id" : 427,
+		"name" : "Reparaciones eléctricas del tablero e instrumental, reparación y recarga de baterías, instalación de alarmas, radios, sistemas de climatización"
+	},
+	{
+		"activity_subtype_id" : 428,
+		"name" : "Tapizado y retapizado de automotores"
+	},
+	{
+		"activity_subtype_id" : 429,
+		"name" : "Reparación y pintura de carrocerías, colocación y reparación de guardabarros y protecciones exteriores"
+	},
+	{
+		"activity_subtype_id" : 430,
+		"name" : "Instalación y reparación de caños de escape y radiadores"
+	},
+	{
+		"activity_subtype_id" : 431,
+		"name" : "Mantenimiento y reparación de frenos y embragues"
+	},
+	{
+		"activity_subtype_id" : 432,
+		"name" : "Instalación y reparación de equipos de GNC"
+	},
+	{
+		"activity_subtype_id" : 433,
+		"name" : "Mantenimiento y reparación del motor n.c.p., mecánica integral (Incluye auxilio y servicios de grúa para automotores)"
+	},
+	{
+		"activity_subtype_id" : 434,
+		"name" : "Venta al por mayor de partes, piezas y accesorios de vehículos automotores"
+	},
+	{
+		"activity_subtype_id" : 435,
+		"name" : "Venta al por menor de cámaras y cubiertas"
+	},
+	{
+		"activity_subtype_id" : 436,
+		"name" : "Venta al por menor de baterías"
+	},
+	{
+		"activity_subtype_id" : 437,
+		"name" : "Venta al por menor de partes, piezas y accesorios nuevos n.c.p."
+	},
+	{
+		"activity_subtype_id" : 438,
+		"name" : "Venta al por menor de partes, piezas y accesorios usados n.c.p."
+	},
+	{
+		"activity_subtype_id" : 439,
+		"name" : "Venta de motocicletas y de sus partes, piezas y accesorios"
+	},
+	{
+		"activity_subtype_id" : 440,
+		"name" : "Mantenimiento y reparación de motocicletas"
+	},
+	{
+		"activity_subtype_id" : 441,
+		"name" : "Venta al por mayor en comisión o consignación de cereales (incluye arroz), oleaginosas y forrajeras excepto semillas"
+	},
+	{
+		"activity_subtype_id" : 442,
+		"name" : "Venta al por mayor en comisión o consignación de semillas"
+	},
+	{
+		"activity_subtype_id" : 443,
+		"name" : "Venta al por mayor en comisión o consignación de frutas (Incluye acopiadores y receptoras)"
+	},
+	{
+		"activity_subtype_id" : 444,
+		"name" : "Acopio y acondicionamiento en comisión o consignación de cereales (incluye arroz), oleaginosas y forrajeras excepto semillas"
+	},
+	{
+		"activity_subtype_id" : 445,
+		"name" : "Venta al por mayor en comisión o consignación de productos agrícolas n.c.p."
+	},
+	{
+		"activity_subtype_id" : 446,
+		"name" : "Venta al por mayor en comisión o consignación de ganado bovino en pie (Incluye consignatarios de hacienda y ferieros)"
+	},
+	{
+		"activity_subtype_id" : 447,
+		"name" : "Venta al por mayor en comisión o consignación de ganado en pie excepto bovino"
+	},
+	{
+		"activity_subtype_id" : 448,
+		"name" : "Venta al por mayor en comisión o consignación de productos pecuarios n.c.p."
+	},
+	{
+		"activity_subtype_id" : 449,
+		"name" : "Operaciones de intermediación de carne - consignatario directo -"
+	},
+	{
+		"activity_subtype_id" : 450,
+		"name" : "Operaciones de intermediación de carne excepto consignatario directo (Incluye matarifes abastecedores de carne, etc.)"
+	},
+	{
+		"activity_subtype_id" : 451,
+		"name" : "Venta al por mayor en comisión o consignación de alimentos, bebidas y tabaco n.c.p."
+	},
+	{
+		"activity_subtype_id" : 452,
+		"name" : "Venta al por mayor en comisión o consignación de combustibles (No incluye electricidad)"
+	},
+	{
+		"activity_subtype_id" : 453,
+		"name" : "Venta al por mayor en comisión o consignación de  madera y materiales para la construcción"
+	},
+	{
+		"activity_subtype_id" : 454,
+		"name" : "Venta al por mayor en comisión o consignación de minerales, metales y productos químicos industriales"
+	},
+	{
+		"activity_subtype_id" : 455,
+		"name" : "Venta al por mayor en comisión o consignación de  maquinaria, equipo profesional industrial y comercial, embarcaciones y aeronaves"
+	},
+	{
+		"activity_subtype_id" : 456,
+		"name" : "Venta al por mayor en comisión o consignación de papel, cartón, libros, revistas, diarios, materiales de embalaje y artículos de librería"
+	},
+	{
+		"activity_subtype_id" : 457,
+		"name" : "Venta al por mayor en comisión o consignación de  mercaderías n.c.p."
+	},
+	{
+		"activity_subtype_id" : 458,
+		"name" : "Acopio de algodón"
+	},
+	{
+		"activity_subtype_id" : 459,
+		"name" : "Venta al por mayor de semillas y granos para forrajes"
+	},
+	{
+		"activity_subtype_id" : 460,
+		"name" : "Venta al por mayor de cereales (incluye arroz), oleaginosas y forrajeras excepto semillas"
+	},
+	{
+		"activity_subtype_id" : 461,
+		"name" : "Acopio y acondicionamiento de cereales y semillas, excepto de algodón y semillas y granos para forrajes"
+	},
+	{
+		"activity_subtype_id" : 462,
+		"name" : "Venta al por mayor de materias primas agrícolas y de la silvicultura n.c.p. (Incluye el acopio y venta al por mayor de materiles, desperdicios, subproductos agrícola usados como alimentos para animales)"
+	},
+	{
+		"activity_subtype_id" : 463,
+		"name" : "Venta al por mayor de lanas, cueros en bruto y productos afines"
+	},
+	{
+		"activity_subtype_id" : 464,
+		"name" : "Venta al por mayor de materias primas pecuarias n.c.p. incluso animales vivos (Incluye pieles y cueros en bruto)"
+	},
+	{
+		"activity_subtype_id" : 465,
+		"name" : "Venta al por mayor de productos lácteos"
+	},
+	{
+		"activity_subtype_id" : 466,
+		"name" : "Venta al por mayor de fiambres y quesos"
+	},
+	{
+		"activity_subtype_id" : 467,
+		"name" : "Venta al por mayor de carnes rojas y derivados (Incluye abastecedores y distribuidores de carne)"
+	},
+	{
+		"activity_subtype_id" : 468,
+		"name" : "Venta al por mayor de aves, huevos y productos de granja y de la caza n.c.p. (Incluye la venta al por mayor  de carne de ave fresca, congelada o refrigerada)"
+	},
+	{
+		"activity_subtype_id" : 469,
+		"name" : "Venta al por mayor de pescado"
+	},
+	{
+		"activity_subtype_id" : 470,
+		"name" : "Venta al por mayor y empaque de frutas, de legumbres y hortalizas frescas"
+	},
+	{
+		"activity_subtype_id" : 471,
+		"name" : "Venta al por mayor de pan, productos de confitería y pastas frescas"
+	},
+	{
+		"activity_subtype_id" : 472,
+		"name" : "Venta al por mayor de azúcar"
+	},
+	{
+		"activity_subtype_id" : 473,
+		"name" : "Venta al por mayor de aceites y grasas"
+	},
+	{
+		"activity_subtype_id" : 474,
+		"name" : "Venta al por mayor de café, té, yerba mate y otras infusiones y especias y condimentos (Incluye la venta de sal)"
+	},
+	{
+		"activity_subtype_id" : 475,
+		"name" : "Venta al por mayor de productos y subproductos de molinería n.c.p."
+	},
+	{
+		"activity_subtype_id" : 476,
+		"name" : "Venta al por mayor de chocolates, golosinas y productos para kioscos y polirrubros n.c.p., excepto cigarrillos"
+	},
+	{
+		"activity_subtype_id" : 477,
+		"name" : "Venta al por mayor de alimentos balanceados para animales"
+	},
+	{
+		"activity_subtype_id" : 478,
+		"name" : "Venta al por mayor en supermercados mayoristas de alimentos"
+	},
+	{
+		"activity_subtype_id" : 479,
+		"name" : "Venta al por mayor de frutas, legumbres y cereales secos y en conserva"
+	},
+	{
+		"activity_subtype_id" : 480,
+		"name" : "Venta al por mayor de productos alimenticios n.c.p. (Incluye la venta de miel y derivados, productos congelados,  etc.)"
+	},
+	{
+		"activity_subtype_id" : 481,
+		"name" : "Venta al por mayor de vino"
+	},
+	{
+		"activity_subtype_id" : 482,
+		"name" : "Venta al por mayor de bebidas espiritosas"
+	},
+	{
+		"activity_subtype_id" : 483,
+		"name" : "Venta al por mayor de bebidas alcohólicas n.c.p. (Incluye la venta de aperitivos con alcohol, cerveza, sidra, etc.)"
+	},
+	{
+		"activity_subtype_id" : 484,
+		"name" : "Venta al por mayor de bebidas no alcohólicas (Incluye la venta de aguas, sodas, bebidas refrescantes, jarabes, extractos, concentrados, gaseosas, jugos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 485,
+		"name" : "Venta al por mayor de cigarrillos y productos de tabaco"
+	},
+	{
+		"activity_subtype_id" : 486,
+		"name" : "Venta al por mayor de tejidos (telas)"
+	},
+	{
+		"activity_subtype_id" : 487,
+		"name" : "Venta al por mayor de artículos de mercería (Incluye la venta de puntillas, galones, hombreras, agujas, botones, etc.)"
+	},
+	{
+		"activity_subtype_id" : 488,
+		"name" : "Venta al por mayor de mantelería, ropa de cama y artículos textiles para el hogar"
+	},
+	{
+		"activity_subtype_id" : 489,
+		"name" : "Venta al por mayor de tapices y alfombras de materiales textiles"
+	},
+	{
+		"activity_subtype_id" : 490,
+		"name" : "Venta al por mayor de productos textiles n.c.p."
+	},
+	{
+		"activity_subtype_id" : 491,
+		"name" : "Venta al por mayor de prendas de vestir de cuero"
+	},
+	{
+		"activity_subtype_id" : 492,
+		"name" : "Venta al por mayor de medias y prendas de punto"
+	},
+	{
+		"activity_subtype_id" : 493,
+		"name" : "Venta al por mayor de prendas y accesorios de vestir n.c.p., excepto uniformes y ropa de trabajo"
+	},
+	{
+		"activity_subtype_id" : 494,
+		"name" : "Venta al por mayor de calzado excepto el ortopédico (Incluye venta de calzado de cuero, tela, plástico, goma, etc.)"
+	},
+	{
+		"activity_subtype_id" : 495,
+		"name" : "Venta al por mayor de pieles y cueros curtidos y salados"
+	},
+	{
+		"activity_subtype_id" : 496,
+		"name" : "Venta al por mayor de suelas y afines (Incluye talabarterías, artículos regionales de cuero, almacenes de suelas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 497,
+		"name" : "Venta al por mayor de artículos de marroquinería,  paraguas y productos similares n.c.p."
+	},
+	{
+		"activity_subtype_id" : 498,
+		"name" : "Venta al por mayor de uniformes y ropa de trabajo"
+	},
+	{
+		"activity_subtype_id" : 499,
+		"name" : "Venta al por mayor de libros y publicaciones"
+	},
+	{
+		"activity_subtype_id" : 500,
+		"name" : "Venta al por mayor de diarios y revistas"
+	},
+	{
+		"activity_subtype_id" : 501,
+		"name" : "Venta al por mayor de papel y productos de papel y cartón excepto envases"
+	},
+	{
+		"activity_subtype_id" : 502,
+		"name" : "Venta al por mayor de envases de papel y cartón"
+	},
+	{
+		"activity_subtype_id" : 503,
+		"name" : "Venta al por mayor de artículos de librería y papelería"
+	},
+	{
+		"activity_subtype_id" : 504,
+		"name" : "Venta al por mayor de productos farmacéuticos (Incluye venta de medicamentos y kits de diagnóstico como test de embarazo, hemoglucotest, vacunas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 505,
+		"name" : "Venta al por mayor de productos cosméticos, de tocador y de perfumería (Incluye venta de artículos para peluquería excepto equipamiento)"
+	},
+	{
+		"activity_subtype_id" : 506,
+		"name" : "Venta al por mayor de instrumental médico y odontológico y artículos ortopédicos (Incluye venta de vaporizadores, nebulizadores, masajeadores, termómetros, prótesis, muletas, plantillas, calzado ortopédico y otros artículos similares de uso personal o doméstico)"
+	},
+	{
+		"activity_subtype_id" : 507,
+		"name" : "Venta al por mayor de productos veterinarios"
+	},
+	{
+		"activity_subtype_id" : 508,
+		"name" : "Venta al por mayor de artículos de óptica y de fotografía (Incluye venta de lentes de contacto, líquidos oftalmológicos, armazones, cristales ópticos, películas fotográficas, cámaras y accesorios para fotografía, etc.)"
+	},
+	{
+		"activity_subtype_id" : 509,
+		"name" : "Venta al por mayor de artículos de relojería, joyería y fantasías"
+	},
+	{
+		"activity_subtype_id" : 510,
+		"name" : "Venta al por mayor de electrodomésticos y artefactos para el hogar excepto equipos de audio y video"
+	},
+	{
+		"activity_subtype_id" : 512,
+		"name" : "Venta al por mayor de muebles excepto de oficina, artículos de mimbre y corcho, colchones y somieres"
+	},
+	{
+		"activity_subtype_id" : 513,
+		"name" : "Venta al por mayor de artículos de iluminación"
+	},
+	{
+		"activity_subtype_id" : 514,
+		"name" : "Venta al por mayor de artículos de vidrio"
+	},
+	{
+		"activity_subtype_id" : 515,
+		"name" : "Venta al por mayor de artículos de bazar y menaje excepto de vidrio"
+	},
+	{
+		"activity_subtype_id" : 516,
+		"name" : "Venta al por mayor de materiales y productos de limpieza"
+	},
+	{
+		"activity_subtype_id" : 517,
+		"name" : "Venta al por mayor de juguetes (Incluye artículos de cotillón)"
+	},
+	{
+		"activity_subtype_id" : 518,
+		"name" : "Venta al por mayor de bicicletas y rodados similares (Incluye cochecitos y sillas de paseo para bebés, andadores, triciclos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 519,
+		"name" : "Venta al por mayor de artículos de esparcimiento y deportes (Incluye embarcaciones deportivas, armas y municiones, equipos de pesca, piletas de natación de lona o plástico, etc.)"
+	},
+	{
+		"activity_subtype_id" : 520,
+		"name" : "Venta al por mayor de flores y plantas naturales y artificiales"
+	},
+	{
+		"activity_subtype_id" : 521,
+		"name" : "Venta al por mayor de artículos de uso doméstico o personal n.c.p (Incluye artículos de platería excepto los incluidos en talabartería, cuadros y marcos que no sean obra de arte o de colección, sahumerios y artículos de santería, parrillas y hogares, etc.)"
+	},
+	{
+		"activity_subtype_id" : 522,
+		"name" : "Venta al por mayor de equipos, periféricos, accesorios y programas informáticos"
+	},
+	{
+		"activity_subtype_id" : 523,
+		"name" : "Venta al por mayor de equipos de telefonía y comunicaciones"
+	},
+	{
+		"activity_subtype_id" : 524,
+		"name" : "Venta al por mayor de componentes electrónicos"
+	},
+	{
+		"activity_subtype_id" : 525,
+		"name" : "Venta al por mayor de máquinas, equipos e implementos de uso en los sectores agropecuario, jardinería, silvicultura, pesca y caza (Incluye venta de tractores, cosechadoras, enfardadoras, remolques de carga y descarga automática, motosierras, cortadoras de césped autopropulsadas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 526,
+		"name" : "Venta al por mayor de máquinas, equipos e implementos de uso en la elaboración de alimentos, bebidas y tabaco (Incluye máquinas para moler, picar y cocer alimentos, fabricadora de pastas, bateas, enfriadoras y envasadoras de bebidas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 527,
+		"name" : "Venta al por mayor de máquinas, equipos e implementos de uso en la fabricación de textiles, prendas y accesorios de vestir, calzado, artículos de cuero y marroquinería (Incluye venta de máquinas de coser, de cortar tejidos, de tejer, extender telas, robots de corte y otros equipos para la industria textil y confeccionista, etc.)"
+	},
+	{
+		"activity_subtype_id" : 528,
+		"name" : "Venta al por mayor de máquinas, equipos e implementos de uso en imprentas, artes gráficas y actividades conexas (Incluye venta de máquinas fotocopiadoras - excepto las de uso personal-, copiadoras de planos, máquinas para imprimir, guillotinar, troquelar, encuadernar, etc.)"
+	},
+	{
+		"activity_subtype_id" : 529,
+		"name" : "Venta al por mayor de máquinas, equipos e implementos de uso médico y paramédico (Incluye venta de equipos de diagnóstico y tratamiento, camillas, cajas de cirugía, jeringas y otros implementos de material descartable, etc.)"
+	},
+	{
+		"activity_subtype_id" : 530,
+		"name" : "Venta al por mayor de máquinas, equipos e implementos de uso en la industria del plástico y del caucho (Incluye sopladora de envases, laminadora de plásticos, máquinas extrusoras y moldeadoras, etc.)"
+	},
+	{
+		"activity_subtype_id" : 531,
+		"name" : "Venta al por mayor de máquinas, equipos e implementos de uso especial n.c.p.  (Incluye motoniveladoras, excavadoras, palas mecánicas, perforadoras-percutoras, etc.)"
+	},
+	{
+		"activity_subtype_id" : 532,
+		"name" : "Venta al por mayor de máquinas - herramienta de uso general"
+	},
+	{
+		"activity_subtype_id" : 533,
+		"name" : "Venta  al  por  mayor  de  vehículos,  equipos  y  máquinas  para  el transporte ferroviario, aéreo y de navegación"
+	},
+	{
+		"activity_subtype_id" : 534,
+		"name" : "Venta al por mayor de muebles e instalaciones para oficinas"
+	},
+	{
+		"activity_subtype_id" : 535,
+		"name" : "Venta al por mayor de muebles e instalaciones para la industria, el comercio y los servicios n.c.p."
+	},
+	{
+		"activity_subtype_id" : 536,
+		"name" : "Venta al por mayor de máquinas y equipo de control y seguridad"
+	},
+	{
+		"activity_subtype_id" : 537,
+		"name" : "Venta al por mayor de maquinaria y equipo de oficina, excepto equipo informático"
+	},
+	{
+		"activity_subtype_id" : 538,
+		"name" : "Venta al por mayor de equipo profesional y científico e instrumentos de medida y de control n.c.p."
+	},
+	{
+		"activity_subtype_id" : 539,
+		"name" : "Venta al por mayor de máquinas, equipo y materiales conexos n.c.p."
+	},
+	{
+		"activity_subtype_id" : 540,
+		"name" : "Venta al por mayor de combustibles y lubricantes para automotores"
+	},
+	{
+		"activity_subtype_id" : 541,
+		"name" : "Fraccionamiento y distribución de gas licuado"
+	},
+	{
+		"activity_subtype_id" : 542,
+		"name" : "Venta al por mayor de combustibles, lubricantes, leña y carbón, excepto gas licuado y combustibles y lubricantes para automotores"
+	},
+	{
+		"activity_subtype_id" : 543,
+		"name" : "Venta al por mayor de metales y minerales metalíferos"
+	},
+	{
+		"activity_subtype_id" : 544,
+		"name" : "Venta al por mayor de aberturas (Incluye puertas, ventanas, cortinas de enrollar, madera, aluminio, puertas corredizas, frentes de placard, etc.)"
+	},
+	{
+		"activity_subtype_id" : 545,
+		"name" : "Venta al por mayor de productos de madera excepto muebles (Incluye placas, varillas, parqué, machimbre, etc.)"
+	},
+	{
+		"activity_subtype_id" : 546,
+		"name" : "Venta al por mayor de artículos de ferretería y materiales eléctricos (Incluye la venta  de clavos, cerraduras, cable coaxil. etc)"
+	},
+	{
+		"activity_subtype_id" : 547,
+		"name" : "Venta al por mayor de pinturas y productos conexos"
+	},
+	{
+		"activity_subtype_id" : 548,
+		"name" : "Venta al por mayor de cristales y espejos"
+	},
+	{
+		"activity_subtype_id" : 549,
+		"name" : "Venta al por mayor de artículos para plomería, instalación de gas y calefacción"
+	},
+	{
+		"activity_subtype_id" : 550,
+		"name" : "Venta al por mayor de papeles para pared, revestimiento para pisos de goma, plástico y textiles,  y artículos similares para la decoración"
+	},
+	{
+		"activity_subtype_id" : 551,
+		"name" : "Venta al por mayor de artículos de loza, cerámica y porcelana de uso en construcción"
+	},
+	{
+		"activity_subtype_id" : 552,
+		"name" : "Venta al por mayor de artículos para la construcción n.c.p. (No incluye artículos y materiales de demolición: 466990 )"
+	},
+	{
+		"activity_subtype_id" : 553,
+		"name" : "Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos textiles"
+	},
+	{
+		"activity_subtype_id" : 554,
+		"name" : "Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos de papel y cartón"
+	},
+	{
+		"activity_subtype_id" : 555,
+		"name" : "Venta al por mayor de artículos de plástico"
+	},
+	{
+		"activity_subtype_id" : 556,
+		"name" : "Venta al por mayor de abonos, fertilizantes y plaguicidas"
+	},
+	{
+		"activity_subtype_id" : 557,
+		"name" : "Venta al por mayor de productos intermedios, desperdicios y desechos de vidrio, caucho, goma y químicos n.c.p."
+	},
+	{
+		"activity_subtype_id" : 558,
+		"name" : "Venta al por mayor de productos intermedios n.c.p., desperdicios y desechos metálicos (Incluye chatarra, viruta de metales diversos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 559,
+		"name" : "Venta al por mayor de productos intermedios, desperdicios y desechos n.c.p."
+	},
+	{
+		"activity_subtype_id" : 560,
+		"name" : "Venta al por mayor de insumos agropecuarios diversos"
+	},
+	{
+		"activity_subtype_id" : 561,
+		"name" : "Venta al por mayor de mercancías n.c.p."
+	},
+	{
+		"activity_subtype_id" : 562,
+		"name" : "Venta al por menor en hipermercados"
+	},
+	{
+		"activity_subtype_id" : 563,
+		"name" : "Venta al por menor en supermercados"
+	},
+	{
+		"activity_subtype_id" : 564,
+		"name" : "Venta al por menor en minimercados (Incluye mercaditos, autoservicios y establecimientos similares que vendan carnes, verduras y demás productos alimenticios en forma conjunta)"
+	},
+	{
+		"activity_subtype_id" : 565,
+		"name" : "Venta al por menor en kioscos, polirrubros y comercios no especializados n.c.p."
+	},
+	{
+		"activity_subtype_id" : 566,
+		"name" : "Venta al por menor en comercios no especializados, sin predominio de productos alimenticios y bebidas"
+	},
+	{
+		"activity_subtype_id" : 567,
+		"name" : "Venta al por menor de productos lácteos"
+	},
+	{
+		"activity_subtype_id" : 568,
+		"name" : "Venta al por menor de fiambres y embutidos"
+	},
+	{
+		"activity_subtype_id" : 569,
+		"name" : "Venta al por menor de productos de almacén y dietética"
+	},
+	{
+		"activity_subtype_id" : 570,
+		"name" : "Venta al por menor de carnes rojas, menudencias y chacinados frescos"
+	},
+	{
+		"activity_subtype_id" : 571,
+		"name" : "Venta al por menor de huevos, carne de aves y  productos de granja y de la caza"
+	},
+	{
+		"activity_subtype_id" : 572,
+		"name" : "Venta al por menor de pescados y  productos de la pesca"
+	},
+	{
+		"activity_subtype_id" : 573,
+		"name" : "Venta al por menor de frutas, legumbres y hortalizas frescas"
+	},
+	{
+		"activity_subtype_id" : 574,
+		"name" : "Venta al por menor de pan y productos de panadería"
+	},
+	{
+		"activity_subtype_id" : 575,
+		"name" : "Venta al por menor de bombones, golosinas y demás productos de confitería"
+	},
+	{
+		"activity_subtype_id" : 576,
+		"name" : "Venta al por menor de productos alimenticios n.c.p., en comercios especializados"
+	},
+	{
+		"activity_subtype_id" : 577,
+		"name" : "Venta al por menor de bebidas en comercios especializados"
+	},
+	{
+		"activity_subtype_id" : 578,
+		"name" : "Venta al por menor de tabaco en comercios especializados"
+	},
+	{
+		"activity_subtype_id" : 579,
+		"name" : "Venta al por menor de combustible para vehículos automotores y motocicletas (Incluye la venta al por menor de productos lubricantes y refrigerantes)"
+	},
+	{
+		"activity_subtype_id" : 580,
+		"name" : "Venta al por menor de equipos, periféricos,  accesorios y programas informáticos"
+	},
+	{
+		"activity_subtype_id" : 581,
+		"name" : "Venta al por menor de aparatos de telefonía y comunicación (Incluye teléfonos, celulares, fax, etc)"
+	},
+	{
+		"activity_subtype_id" : 582,
+		"name" : "Venta al por menor de hilados, tejidos y artículos de mercería (Incluye mercerías, sederías, comercios de venta de lanas y otros hilados, etc.)"
+	},
+	{
+		"activity_subtype_id" : 583,
+		"name" : "Venta al por menor de confecciones para el hogar (Incluye la venta al por menor de sábanas, toallas, mantelería, cortinas confeccionadas, colchas, cubrecamas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 584,
+		"name" : "Venta al por menor de artículos textiles n.c.p. excepto prendas de vestir (Incluye la venta al por menor de tapices, alfombras,  etc.)"
+	},
+	{
+		"activity_subtype_id" : 585,
+		"name" : "Venta al por menor de aberturas (Incluye puertas, ventanas, cortinas de enrollar de PVC, madera, aluminio, puertas corredizas, frentes de placards, etc.)"
+	},
+	{
+		"activity_subtype_id" : 586,
+		"name" : "Venta al por menor de maderas y artículos de madera  y corcho, excepto muebles"
+	},
+	{
+		"activity_subtype_id" : 587,
+		"name" : "Venta al por menor de artículos de ferretería y materiales eléctricos"
+	},
+	{
+		"activity_subtype_id" : 588,
+		"name" : "Venta al por menor de pinturas y productos conexos"
+	},
+	{
+		"activity_subtype_id" : 589,
+		"name" : "Venta al por menor de artículos para plomería e instalación de gas"
+	},
+	{
+		"activity_subtype_id" : 590,
+		"name" : "Venta al por menor de cristales, espejos, mamparas y cerramientos"
+	},
+	{
+		"activity_subtype_id" : 591,
+		"name" : "Venta al por menor de papeles para pared, revestimientos para pisos y artículos similares para la decoración"
+	},
+	{
+		"activity_subtype_id" : 592,
+		"name" : "Venta al por menor de materiales de construcción n.c.p."
+	},
+	{
+		"activity_subtype_id" : 593,
+		"name" : "Venta al por menor  de electrodomésticos, artefactos para el hogar y equipos de audio y video"
+	},
+	{
+		"activity_subtype_id" : 594,
+		"name" : "Venta al por menor de muebles para el hogar, artículos de mimbre y corcho"
+	},
+	{
+		"activity_subtype_id" : 595,
+		"name" : "Venta al por menor de colchones y somieres"
+	},
+	{
+		"activity_subtype_id" : 596,
+		"name" : "Venta al por menor de artículos de iluminación"
+	},
+	{
+		"activity_subtype_id" : 597,
+		"name" : "Venta al por menor de artículos de bazar y menaje (Incluye venta al por menor de vajilla, cubiertos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 598,
+		"name" : "Venta al por menor de artículos para el hogar n.c.p. (Incluye perchas, marcos, cuadros, etc.)"
+	},
+	{
+		"activity_subtype_id" : 599,
+		"name" : "Venta al por menor de libros"
+	},
+	{
+		"activity_subtype_id" : 600,
+		"name" : "Venta al por menor de diarios y revistas"
+	},
+	{
+		"activity_subtype_id" : 601,
+		"name" : "Venta al por menor de papel, cartón, materiales de embalaje y artículos de librería"
+	},
+	{
+		"activity_subtype_id" : 602,
+		"name" : "Venta al por menor de equipos  y artículos deportivos (Incluye la venta y reparación  de bicicletas, la venta  de aparatos de gimnasia y de equipos de camping, etc.)"
+	},
+	{
+		"activity_subtype_id" : 603,
+		"name" : "Venta al por menor de armas, artículos para la caza y pesca"
+	},
+	{
+		"activity_subtype_id" : 604,
+		"name" : "Venta al por menor de juguetes, artículos de cotillón y juegos de mesa"
+	},
+	{
+		"activity_subtype_id" : 605,
+		"name" : "Venta al por menor de ropa interior, medias, prendas para dormir y para la playa (Incluye corsetería, lencería, camisetas, medias excepto ortopédicas, pijamas, camisones y saltos de cama, salidas de baño, trajes de baño, etc.)"
+	},
+	{
+		"activity_subtype_id" : 606,
+		"name" : "Venta al por menor de uniformes escolares y guardapolvos"
+	},
+	{
+		"activity_subtype_id" : 607,
+		"name" : "Venta al por menor de indumentaria para bebés y niños"
+	},
+	{
+		"activity_subtype_id" : 608,
+		"name" : "Venta al por menor de indumentaria deportiva"
+	},
+	{
+		"activity_subtype_id" : 609,
+		"name" : "Venta al por menor de prendas de cuero"
+	},
+	{
+		"activity_subtype_id" : 610,
+		"name" : "Venta al por menor de prendas y accesorios de vestir n.c.p."
+	},
+	{
+		"activity_subtype_id" : 611,
+		"name" : "Venta al por menor de artículos de talabartería y artículos regionales (Incluye venta de artículos regionales de cuero, plata, alpaca y similares)"
+	},
+	{
+		"activity_subtype_id" : 612,
+		"name" : "Venta al por menor de calzado, excepto el ortopédico y el deportivo (No incluye almacenes de suelas 464142)"
+	},
+	{
+		"activity_subtype_id" : 613,
+		"name" : "Venta al por menor de calzado deportivo"
+	},
+	{
+		"activity_subtype_id" : 614,
+		"name" : "Venta al por menor de artículos de marroquinería, paraguas y similares n.c.p."
+	},
+	{
+		"activity_subtype_id" : 615,
+		"name" : "Venta al por menor de productos farmacéuticos y de herboristería"
+	},
+	{
+		"activity_subtype_id" : 616,
+		"name" : "Venta al por menor de productos cosméticos, de tocador y de perfumería"
+	},
+	{
+		"activity_subtype_id" : 617,
+		"name" : "Venta al por menor de instrumental médico y odontológico y artículos ortopédicos (Incluye venta de vaporizadores, nebulizadores, masajeadores, termómetros, prótesis, muletas, plantillas, calzado ortopédico y otros artículos similares de uso personal o doméstico)"
+	},
+	{
+		"activity_subtype_id" : 618,
+		"name" : "Venta al por menor de artículos de óptica y fotografía"
+	},
+	{
+		"activity_subtype_id" : 619,
+		"name" : "Venta al por menor de artículos de relojería y joyería"
+	},
+	{
+		"activity_subtype_id" : 620,
+		"name" : "Venta al por menor de bijouterie y fantasía"
+	},
+	{
+		"activity_subtype_id" : 621,
+		"name" : "Venta al por menor de flores, plantas, semillas, abonos, fertilizantes y otros productos de vivero"
+	},
+	{
+		"activity_subtype_id" : 622,
+		"name" : "Venta al por menor de materiales y productos de limpieza"
+	},
+	{
+		"activity_subtype_id" : 623,
+		"name" : "Venta al por menor de fuel oil, gas en garrafas, carbón y leña (No incluye las estaciones de servicios que se clasifican en 473000)"
+	},
+	{
+		"activity_subtype_id" : 624,
+		"name" : "Venta al por menor de productos veterinarios, animales domésticos y alimento balanceado para mascotas"
+	},
+	{
+		"activity_subtype_id" : 625,
+		"name" : "Venta al por menor de obras de arte"
+	},
+	{
+		"activity_subtype_id" : 626,
+		"name" : "Venta al por menor de artículos nuevos n.c.p. (Incluye la venta realizada en casas de regalos, de artesanías, pelucas,  de artículos religiosos -santerías-, recarga de matafuegos,  etc.)"
+	},
+	{
+		"activity_subtype_id" : 627,
+		"name" : "Venta al por menor de muebles usados"
+	},
+	{
+		"activity_subtype_id" : 628,
+		"name" : "Venta al por menor de libros, revistas y similares usados"
+	},
+	{
+		"activity_subtype_id" : 629,
+		"name" : "Venta al por menor de antigüedades (Incluye venta de antigüedades en remates)"
+	},
+	{
+		"activity_subtype_id" : 630,
+		"name" : "Venta al por menor de oro, monedas, sellos y similares (Incluye la  venta de monedas de colección, estampillas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 631,
+		"name" : "Venta al por menor de artículos usados n.c.p. excepto+E1155 automotores y motocicletas"
+	},
+	{
+		"activity_subtype_id" : 632,
+		"name" : "Venta al por menor de alimentos, bebidas y tabaco en puestos móviles y mercados"
+	},
+	{
+		"activity_subtype_id" : 633,
+		"name" : "Venta al por menor de productos n.c.p. en puestos móviles y mercados"
+	},
+	{
+		"activity_subtype_id" : 634,
+		"name" : "Venta al por menor por internet"
+	},
+	{
+		"activity_subtype_id" : 635,
+		"name" : "Venta al por menor por correo, televisión y otros medios de comunicación n.c.p."
+	},
+	{
+		"activity_subtype_id" : 636,
+		"name" : "Venta al por menor no realizada en establecimientos  n.c.p. (Incluye venta mediante máquinas expendedoras, vendedores ambulantes y vendedores a domicilio)"
+	},
+	{
+		"activity_subtype_id" : 637,
+		"name" : "Servicio de transporte ferroviario urbano y suburbano de pasajeros (Incluye el servicio de subterráneo y de premetro)"
+	},
+	{
+		"activity_subtype_id" : 638,
+		"name" : "Servicio de transporte ferroviario interurbano de pasajeros"
+	},
+	{
+		"activity_subtype_id" : 639,
+		"name" : "Servicio de transporte ferroviario de cargas"
+	},
+	{
+		"activity_subtype_id" : 640,
+		"name" : "Servicio de transporte automotor urbano y suburbano regular de pasajeros"
+	},
+	{
+		"activity_subtype_id" : 641,
+		"name" : "Servicios de transporte automotor de pasajeros mediante taxis y remises, alquiler de autos con chofer (Incluye los radiotaxis)"
+	},
+	{
+		"activity_subtype_id" : 642,
+		"name" : "Servicio de transporte escolar (Incluye el servicio de transporte para colonias de vacaciones y clubes)"
+	},
+	{
+		"activity_subtype_id" : 643,
+		"name" : "Servicio de transporte automotor urbano y suburbano no regular de pasajeros de oferta libre,  excepto mediante taxis y remises, alquiler de autos con chofer y transporte escolar (Incluye servicios urbanos especiales como charters, servicios contratados, servicios para ámbito portuario o aeroportuario, servicio de hipódromos y espectáculos deportivos y culturales)"
+	},
+	{
+		"activity_subtype_id" : 644,
+		"name" : "Servicio de transporte automotor interurbano regular de pasajeros, E1203excepto transporte internacional (Incluye los llamados servicios de larga distancia)"
+	},
+	{
+		"activity_subtype_id" : 645,
+		"name" : "Servicio de transporte automotor interurbano no regular de pasajeros"
+	},
+	{
+		"activity_subtype_id" : 646,
+		"name" : "Servicio de transporte automotor internacional de pasajeros"
+	},
+	{
+		"activity_subtype_id" : 647,
+		"name" : "Servicio de transporte automotor turístico de pasajeros"
+	},
+	{
+		"activity_subtype_id" : 648,
+		"name" : "Servicio de transporte automotor de pasajeros n.c.p."
+	},
+	{
+		"activity_subtype_id" : 649,
+		"name" : "Servicios de mudanza (Incluye servicios de guardamuebles)"
+	},
+	{
+		"activity_subtype_id" : 650,
+		"name" : "Servicio de transporte automotor de cereales"
+	},
+	{
+		"activity_subtype_id" : 651,
+		"name" : "Servicio de transporte automotor de mercaderías a granel n.c.p."
+	},
+	{
+		"activity_subtype_id" : 652,
+		"name" : "Servicio de transporte automotor de animales"
+	},
+	{
+		"activity_subtype_id" : 653,
+		"name" : "Servicio de transporte por camión cisterna"
+	},
+	{
+		"activity_subtype_id" : 654,
+		"name" : "Servicio de transporte automotor de mercaderías y sustancias peligrosas"
+	},
+	{
+		"activity_subtype_id" : 655,
+		"name" : "Servicio de transporte automotor urbano de carga n.c.p. (Incluye el transporte realizado por fleteros y distribuidores dentro del égido urbano)"
+	},
+	{
+		"activity_subtype_id" : 656,
+		"name" : "Servicio de transporte automotor de cargas n.c.p. (Incluye  servicios de transporte de carga refrigerada y transporte pesado)"
+	},
+	{
+		"activity_subtype_id" : 657,
+		"name" : "Servicio de transporte por oleoductos (Incluye estaciones de bombeo y compresión)"
+	},
+	{
+		"activity_subtype_id" : 658,
+		"name" : "Servicio de transporte por poliductos y fueloductos"
+	},
+	{
+		"activity_subtype_id" : 659,
+		"name" : "Servicio de transporte por gasoductos (Incluye estaciones de bombeo y compresión)"
+	},
+	{
+		"activity_subtype_id" : 660,
+		"name" : "Servicio de transporte marítimo de pasajeros"
+	},
+	{
+		"activity_subtype_id" : 661,
+		"name" : "Servicio de transporte marítimo de carga"
+	},
+	{
+		"activity_subtype_id" : 662,
+		"name" : "Servicio de transporte fluvial y lacustre de pasajeros"
+	},
+	{
+		"activity_subtype_id" : 663,
+		"name" : "Servicio de transporte fluvial y lacustre de carga"
+	},
+	{
+		"activity_subtype_id" : 664,
+		"name" : "Servicio de transporte aéreo de pasajeros"
+	},
+	{
+		"activity_subtype_id" : 665,
+		"name" : "Servicio de transporte aéreo de cargas"
+	},
+	{
+		"activity_subtype_id" : 666,
+		"name" : "Servicios de manipulación de carga en el ámbito terrestre"
+	},
+	{
+		"activity_subtype_id" : 667,
+		"name" : "Servicios de manipulación de carga en el ámbito portuario"
+	},
+	{
+		"activity_subtype_id" : 668,
+		"name" : "Servicios de manipulación de carga en el ámbito aéreo"
+	},
+	{
+		"activity_subtype_id" : 669,
+		"name" : "Servicios de almacenamiento y depósito en silos"
+	},
+	{
+		"activity_subtype_id" : 670,
+		"name" : "Servicios de almacenamiento y depósito en cámaras frigoríficas"
+	},
+	{
+		"activity_subtype_id" : 671,
+		"name" : "Servicios de usuarios directos de zona franca"
+	},
+	{
+		"activity_subtype_id" : 672,
+		"name" : "Servicios de gestión de depósitos fiscales"
+	},
+	{
+		"activity_subtype_id" : 673,
+		"name" : "Servicios de almacenamiento y depósito n.c.p."
+	},
+	{
+		"activity_subtype_id" : 674,
+		"name" : "Servicios de gestión aduanera realizados por despachantes de aduana"
+	},
+	{
+		"activity_subtype_id" : 675,
+		"name" : "Servicios de gestión aduanera para el transporte de mercaderías n.c.p."
+	},
+	{
+		"activity_subtype_id" : 676,
+		"name" : "Servicios de agencias marítimas para el transporte de mercaderías"
+	},
+	{
+		"activity_subtype_id" : 677,
+		"name" : "Servicios de gestión de agentes de transporte aduanero excepto agencias marítimas"
+	},
+	{
+		"activity_subtype_id" : 678,
+		"name" : "Servicios de operadores logísticos seguros (OLS) en el ámbito aduanero"
+	},
+	{
+		"activity_subtype_id" : 679,
+		"name" : "Servicios de operadores logísticos n.c.p."
+	},
+	{
+		"activity_subtype_id" : 680,
+		"name" : "Servicios de gestión y logística para el transporte de mercaderías n.c.p. (Incluye las actividades de empresas empaquetadoras para comercio exterior, alquiler de contenedores, etc.)"
+	},
+	{
+		"activity_subtype_id" : 681,
+		"name" : "Servicios de explotación de infraestructura para el transporte terrestre, peajes y otros derechos"
+	},
+	{
+		"activity_subtype_id" : 682,
+		"name" : "Servicios  de playas de estacionamiento y garajes"
+	},
+	{
+		"activity_subtype_id" : 683,
+		"name" : "Servicios de estaciones terminales de ómnibus y ferroviárias"
+	},
+	{
+		"activity_subtype_id" : 684,
+		"name" : "Servicios complementarios para el transporte terrestre n.c.p. (Incluye servicios de mantenimiento de material ferroviario)"
+	},
+	{
+		"activity_subtype_id" : 685,
+		"name" : "Servicios de explotación de infraestructura para el transporte marítimo, derechos de puerto"
+	},
+	{
+		"activity_subtype_id" : 686,
+		"name" : "Servicios de guarderías náuticas"
+	},
+	{
+		"activity_subtype_id" : 687,
+		"name" : "Servicios para la navegación (Incluye servicios de practicaje y pilotaje, atraque y salvamento)"
+	},
+	{
+		"activity_subtype_id" : 688,
+		"name" : "Servicios complementarios para el transporte marítimo n.c.p. (Incluye explotación de servicios de terminales como puertos y muelles)"
+	},
+	{
+		"activity_subtype_id" : 689,
+		"name" : "Servicios de explotación de infraestructura para el transporte aéreo, derechos de aeropuerto"
+	},
+	{
+		"activity_subtype_id" : 690,
+		"name" : "Servicios de hangares y estacionamiento de aeronaves"
+	},
+	{
+		"activity_subtype_id" : 691,
+		"name" : "Servicios para la aeronavegación (Incluye remolque de aeronaves y actividades de control de tráfico aéreo, etc.)"
+	},
+	{
+		"activity_subtype_id" : 692,
+		"name" : "Servicios complementarios para el transporte aéreo n.c.p. (Incluye servicios de prevención y extinción de incendios)"
+	},
+	{
+		"activity_subtype_id" : 693,
+		"name" : "Servicio de correo postal (Incluye las actividades de correo postal sujetas a la obligación de servicio universal)"
+	},
+	{
+		"activity_subtype_id" : 694,
+		"name" : "Servicios de mensajerías (Incluye servicios puerta a puerta de correo y mensajería, comisionistas de encomiendas, transporte de documentos  realizados por empresas no sujetas a la obligación de servicio universal)"
+	},
+	{
+		"activity_subtype_id" : 695,
+		"name" : "Servicios de alojamiento por hora"
+	},
+	{
+		"activity_subtype_id" : 696,
+		"name" : "Servicios de alojamiento en pensiones"
+	},
+	{
+		"activity_subtype_id" : 697,
+		"name" : "Servicios de alojamiento en hoteles, hosterías y residenciales similares, excepto por hora, que incluyen servicio de restaurante al público"
+	},
+	{
+		"activity_subtype_id" : 698,
+		"name" : "Servicios de alojamiento en hoteles, hosterías y residenciales similares, excepto por hora, que no incluyen servicio de restaurante al público"
+	},
+	{
+		"activity_subtype_id" : 699,
+		"name" : "Servicios de hospedaje temporal n.c.p. (Incluye hospedaje en estancias, residencias para estudiantes y albergues juveniles, apartamentos turísticos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 700,
+		"name" : "Servicios de alojamiento en campings (Incluye refugios de montaña)"
+	},
+	{
+		"activity_subtype_id" : 701,
+		"name" : "Servicios de restaurantes y cantinas sin espectáculo"
+	},
+	{
+		"activity_subtype_id" : 702,
+		"name" : "Servicios de restaurantes y cantinas con espectáculo"
+	},
+	{
+		"activity_subtype_id" : 703,
+		"name" : "Servicios de \"fast food\" y locales de venta de comidas y bebidas al paso (Incluye el expendio de hamburguesas, productos lácteos excepto helados, etc.)"
+	},
+	{
+		"activity_subtype_id" : 704,
+		"name" : "Servicios de expendio de bebidas en bares (Incluye: bares, cervecerías, pubs, cafeterías)"
+	},
+	{
+		"activity_subtype_id" : 705,
+		"name" : "Servicios de expendio de comidas y bebidas en establecimientos con servicio de mesa y\/o en mostrador n.c.p."
+	},
+	{
+		"activity_subtype_id" : 706,
+		"name" : "Servicios de preparación de comidas para llevar (Incluye rotiserías, casas de empanadas, pizzerías sin consumo en el local)"
+	},
+	{
+		"activity_subtype_id" : 707,
+		"name" : "Servicio de expendio de helados"
+	},
+	{
+		"activity_subtype_id" : 708,
+		"name" : "Servicios de preparación de comidas realizadas por\/para vendedores ambulantes."
+	},
+	{
+		"activity_subtype_id" : 709,
+		"name" : "Servicios de preparación de comidas para empresas y eventos (Incluye el servicio de catering, el suministro de comidas para banquetes, bodas, fiestas y otras celebraciones, comidas para hospital, etc.)"
+	},
+	{
+		"activity_subtype_id" : 710,
+		"name" : "Servicios de cantinas con atención exclusiva  a los empleados o estudiantes dentro de empresas o establecimientos educativos (Incluye cantinas deportivas)"
+	},
+	{
+		"activity_subtype_id" : 711,
+		"name" : "Servicios de comidas n.c.p."
+	},
+	{
+		"activity_subtype_id" : 712,
+		"name" : "Edición de libros, folletos, y otras publicaciones"
+	},
+	{
+		"activity_subtype_id" : 713,
+		"name" : "Edición de directorios y listas de correos"
+	},
+	{
+		"activity_subtype_id" : 714,
+		"name" : "Edición de periódicos, revistas y publicaciones periódicas"
+	},
+	{
+		"activity_subtype_id" : 715,
+		"name" : "Edición n.c.p."
+	},
+	{
+		"activity_subtype_id" : 716,
+		"name" : "Producción de filmes y videocintas"
+	},
+	{
+		"activity_subtype_id" : 717,
+		"name" : "Postproducción de filmes y videocintas"
+	},
+	{
+		"activity_subtype_id" : 718,
+		"name" : "Distribución de filmes y videocintas"
+	},
+	{
+		"activity_subtype_id" : 719,
+		"name" : "Exhibición de filmes y videocintas"
+	},
+	{
+		"activity_subtype_id" : 720,
+		"name" : "Servicios de grabación de sonido y edición de música"
+	},
+	{
+		"activity_subtype_id" : 721,
+		"name" : "Emisión y retransmisión de radio"
+	},
+	{
+		"activity_subtype_id" : 722,
+		"name" : "Emisión y retransmisión  de televisión abierta"
+	},
+	{
+		"activity_subtype_id" : 723,
+		"name" : "Operadores de televisión por suscripción."
+	},
+	{
+		"activity_subtype_id" : 724,
+		"name" : "Emisión de señales de televisión por suscripción"
+	},
+	{
+		"activity_subtype_id" : 725,
+		"name" : "Producción de programas de televisión"
+	},
+	{
+		"activity_subtype_id" : 726,
+		"name" : "Servicios de televisión n.c.p"
+	},
+	{
+		"activity_subtype_id" : 727,
+		"name" : "Servicios de locutorios"
+	},
+	{
+		"activity_subtype_id" : 728,
+		"name" : "Servicios de telefonía fija, excepto locutorios"
+	},
+	{
+		"activity_subtype_id" : 729,
+		"name" : "Servicios de telefonía móvil"
+	},
+	{
+		"activity_subtype_id" : 730,
+		"name" : "Servicios de telecomunicaciones vía satélite, excepto servicios de transmisión de televisión"
+	},
+	{
+		"activity_subtype_id" : 731,
+		"name" : "Servicios de proveedores de acceso a internet"
+	},
+	{
+		"activity_subtype_id" : 732,
+		"name" : "Servicios de telecomunicación vía internet n.c.p."
+	},
+	{
+		"activity_subtype_id" : 733,
+		"name" : "Servicios de telecomunicaciones n.c.p. (Incluye el servicio de pagers)"
+	},
+	{
+		"activity_subtype_id" : 734,
+		"name" : "Servicios de consultores en informática y suministros de programas de informática"
+	},
+	{
+		"activity_subtype_id" : 735,
+		"name" : "Servicios de consultores en equipo de informática"
+	},
+	{
+		"activity_subtype_id" : 736,
+		"name" : "Servicios de consultores en tecnología de la información"
+	},
+	{
+		"activity_subtype_id" : 737,
+		"name" : "Servicios de informática n.c.p."
+	},
+	{
+		"activity_subtype_id" : 738,
+		"name" : "Procesamiento de datos"
+	},
+	{
+		"activity_subtype_id" : 739,
+		"name" : "Hospedaje de datos"
+	},
+	{
+		"activity_subtype_id" : 740,
+		"name" : "Actividades conexas al procesamiento y hospedaje de datos n.c.p."
+	},
+	{
+		"activity_subtype_id" : 741,
+		"name" : "Portales web"
+	},
+	{
+		"activity_subtype_id" : 742,
+		"name" : "Agencias de noticias"
+	},
+	{
+		"activity_subtype_id" : 743,
+		"name" : "Servicios de información n.c.p."
+	},
+	{
+		"activity_subtype_id" : 744,
+		"name" : "Servicios de la banca central (Incluye las actividades del Banco Central de la República Argentina)"
+	},
+	{
+		"activity_subtype_id" : 745,
+		"name" : "Servicios de la banca mayorista"
+	},
+	{
+		"activity_subtype_id" : 746,
+		"name" : "Servicios de la banca de inversión"
+	},
+	{
+		"activity_subtype_id" : 747,
+		"name" : "Servicios de la banca minorista"
+	},
+	{
+		"activity_subtype_id" : 748,
+		"name" : "Servicios de intermediación financiera realizada por las compañías financieras"
+	},
+	{
+		"activity_subtype_id" : 749,
+		"name" : "Servicios de intermediación financiera realizada por sociedades de ahorro y préstamo para la vivienda y otros inmuebles"
+	},
+	{
+		"activity_subtype_id" : 750,
+		"name" : "Servicios de intermediación financiera realizada por cajas de crédito"
+	},
+	{
+		"activity_subtype_id" : 751,
+		"name" : "Servicios de sociedades de cartera"
+	},
+	{
+		"activity_subtype_id" : 752,
+		"name" : "Servicios de fideicomisos"
+	},
+	{
+		"activity_subtype_id" : 753,
+		"name" : "Fondos y sociedades de inversión y entidades financieras similares n.c.p."
+	},
+	{
+		"activity_subtype_id" : 754,
+		"name" : "Arrendamiento financiero, leasing"
+	},
+	{
+		"activity_subtype_id" : 755,
+		"name" : "Actividades de crédito para financiar otras actividades económicas"
+	},
+	{
+		"activity_subtype_id" : 756,
+		"name" : "Servicios de entidades de tarjeta de compra y\/o crédito"
+	},
+	{
+		"activity_subtype_id" : 757,
+		"name" : "Servicios de crédito n.c.p. (Incluye el otorgamiento de préstamos por entidades que no reciben depósitos y que están fuera del sistema bancario y cuyo destino es financiar el consumo, la vivienda u otros bienes)"
+	},
+	{
+		"activity_subtype_id" : 758,
+		"name" : "Servicios de agentes de mercado abierto \"puros\" (Incluye las transacciones extrabursátiles - por cuenta propia -)"
+	},
+	{
+		"activity_subtype_id" : 759,
+		"name" : "Servicios de socios inversores en sociedades regulares según Ley 19.550 - S.R.L., S.C.A, etc, excepto socios inversores en sociedades anónimas incluidos en 649999 (No incluye los servicios de socios miembros  que desarrollan actividades de asesoramiento, dirección y gestión empresarial de sociedades regulares según Ley 19.550: 702091 y 702092)"
+	},
+	{
+		"activity_subtype_id" : 760,
+		"name" : "Servicios de financiación y actividades financieras n.c.p. (Incluye actividades de inversión en acciones, títulos, la actividad de corredores de bolsa, securitización, mutuales financieras, etc.), (No incluye actividades financieras relacionadas con el otorgamiento de créditos)"
+	},
+	{
+		"activity_subtype_id" : 761,
+		"name" : "Servicios de seguros de salud (Incluye medicina prepaga y mutuales de salud)"
+	},
+	{
+		"activity_subtype_id" : 762,
+		"name" : "Servicios de seguros de vida (Incluye los seguros de vida, retiro y sepelio)"
+	},
+	{
+		"activity_subtype_id" : 763,
+		"name" : "Servicios de seguros personales excepto  los de salud y de vida (Incluye los seguros para viajes)"
+	},
+	{
+		"activity_subtype_id" : 764,
+		"name" : "Servicios de aseguradoras de riesgo de trabajo (ART)"
+	},
+	{
+		"activity_subtype_id" : 765,
+		"name" : "Servicios de seguros patrimoniales excepto los de las aseguradoras de riesgo de trabajo (ART)"
+	},
+	{
+		"activity_subtype_id" : 766,
+		"name" : "Obras Sociales"
+	},
+	{
+		"activity_subtype_id" : 767,
+		"name" : "Servicios de cajas de previsión social pertenecientes a asociaciones profesionales"
+	},
+	{
+		"activity_subtype_id" : 768,
+		"name" : "Reaseguros"
+	},
+	{
+		"activity_subtype_id" : 769,
+		"name" : "Administración de fondos de pensiones, excepto la seguridad social obligatoria"
+	},
+	{
+		"activity_subtype_id" : 770,
+		"name" : "Servicios de mercados y cajas de valores"
+	},
+	{
+		"activity_subtype_id" : 771,
+		"name" : "Servicios de mercados a término"
+	},
+	{
+		"activity_subtype_id" : 772,
+		"name" : "Servicios de bolsas de comercio"
+	},
+	{
+		"activity_subtype_id" : 773,
+		"name" : "Servicios bursátiles de mediación o por cuenta de terceros (Incluye la actividad de agentes y sociedades de bolsa)"
+	},
+	{
+		"activity_subtype_id" : 774,
+		"name" : "Servicios de casas y agencias de cambio"
+	},
+	{
+		"activity_subtype_id" : 775,
+		"name" : "Servicios de sociedades calificadoras de riesgos financieros"
+	},
+	{
+		"activity_subtype_id" : 776,
+		"name" : "Servicios de envio y recepción de fondos desde y hacia el exterior"
+	},
+	{
+		"activity_subtype_id" : 777,
+		"name" : "Servicios de administradoras de vales y tickets"
+	},
+	{
+		"activity_subtype_id" : 778,
+		"name" : "Servicios auxiliares a la intermediación financiera n.c.p. (Incluye asesoría financiera)"
+	},
+	{
+		"activity_subtype_id" : 779,
+		"name" : "Servicios de evaluación de riesgos y daños"
+	},
+	{
+		"activity_subtype_id" : 780,
+		"name" : "Servicios de productores  y asesores de seguros"
+	},
+	{
+		"activity_subtype_id" : 781,
+		"name" : "Servicios auxiliares a los servicios de seguros n.c.p."
+	},
+	{
+		"activity_subtype_id" : 782,
+		"name" : "Servicios de gestión de fondos a cambio de una retribución o por contrata"
+	},
+	{
+		"activity_subtype_id" : 783,
+		"name" : "Servicios de alquiler y explotación de inmuebles para fiestas, convenciones y otros eventos similares"
+	},
+	{
+		"activity_subtype_id" : 784,
+		"name" : "Servicios de alquiler  de consultorios médicos"
+	},
+	{
+		"activity_subtype_id" : 785,
+		"name" : "Servicios inmobiliarios realizados por cuenta propia, con bienes urbanos propios o arrendados n.c.p."
+	},
+	{
+		"activity_subtype_id" : 786,
+		"name" : "Servicios inmobiliarios realizados por cuenta propia, con bienes rurales propios o arrendados n.c.p."
+	},
+	{
+		"activity_subtype_id" : 787,
+		"name" : "Servicios de administración de consorcios de edificios"
+	},
+	{
+		"activity_subtype_id" : 788,
+		"name" : "Servicios prestados por inmobiliarias"
+	},
+	{
+		"activity_subtype_id" : 789,
+		"name" : "Servicios inmobiliarios realizados a cambio de una retribución o por contrata n.c.p. (Incluye compra, venta, alquiler, remate, tasación, administración de bienes, etc., realizados a cambio de una retribución o por contrata, y la actividad de administradores, martilleros, rematadores, comisionistas, etc.)"
+	},
+	{
+		"activity_subtype_id" : 790,
+		"name" : "Servicios jurídicos"
+	},
+	{
+		"activity_subtype_id" : 791,
+		"name" : "Servicios  notariales"
+	},
+	{
+		"activity_subtype_id" : 792,
+		"name" : "Servicios de contabilidad, auditoría y asesoría fiscal"
+	},
+	{
+		"activity_subtype_id" : 793,
+		"name" : "Servicios de gerenciamiento de empresas e instituciones de salud, servicios de auditoria y medicina legal, servicio de asesoramiento farmacéutico"
+	},
+	{
+		"activity_subtype_id" : 794,
+		"name" : "Servicios de asesoramiento, dirección y gestión empresarial realizados por integrantes de los órganos de administración y\/o fiscalización en sociedades anónimas"
+	},
+	{
+		"activity_subtype_id" : 795,
+		"name" : "Servicios de asesoramiento, dirección y gestión empresarial realizados por integrantes de cuerpos de dirección en sociedades excepto las anónimas"
+	},
+	{
+		"activity_subtype_id" : 796,
+		"name" : "Servicios de asesoramiento, dirección y gestión empresarial n.c.p."
+	},
+	{
+		"activity_subtype_id" : 797,
+		"name" : "Servicios relacionados con la construcción (Incluye los servicios prestados por ingenieros, arquitectos y técnicos)"
+	},
+	{
+		"activity_subtype_id" : 798,
+		"name" : "Servicios geológicos y de prospección"
+	},
+	{
+		"activity_subtype_id" : 799,
+		"name" : "Servicios relacionados con la electrónica y las comunicaciones"
+	},
+	{
+		"activity_subtype_id" : 800,
+		"name" : "Servicios de arquitectura e ingeniería y servicios conexos de asesoramiento técnico n.c.p."
+	},
+	{
+		"activity_subtype_id" : 801,
+		"name" : "Ensayos y análisis técnicos (Incluye inspección técnica de vehículos, laboratorios de control de calidad, servicios de peritos calígrafos, servicios de bromatología)"
+	},
+	{
+		"activity_subtype_id" : 802,
+		"name" : "Investigación  y desarrollo experimental en el campo de la ingeniería y la tecnología"
+	},
+	{
+		"activity_subtype_id" : 803,
+		"name" : "Investigación  y desarrollo experimental en el campo de las ciencias médicas"
+	},
+	{
+		"activity_subtype_id" : 804,
+		"name" : "Investigación  y desarrollo experimental en el campo de las ciencias agropecuarias"
+	},
+	{
+		"activity_subtype_id" : 805,
+		"name" : "Investigación y desarrollo experimental en el campo de las ciencias exactas y naturales n.c.p."
+	},
+	{
+		"activity_subtype_id" : 806,
+		"name" : "Investigación  y desarrollo experimental en el campo de las ciencias sociales"
+	},
+	{
+		"activity_subtype_id" : 807,
+		"name" : "Investigación  y desarrollo experimental en el campo de las ciencias humanas"
+	},
+	{
+		"activity_subtype_id" : 808,
+		"name" : "Servicios de comercialización de tiempo y espacio publicitario"
+	},
+	{
+		"activity_subtype_id" : 809,
+		"name" : "Servicios de publicidad n.c.p."
+	},
+	{
+		"activity_subtype_id" : 810,
+		"name" : "Estudio de mercado, realización de encuestas de opinión pública"
+	},
+	{
+		"activity_subtype_id" : 811,
+		"name" : "Servicios de diseño especializado (Incluye diseño de indumentaria, diseño gráfico, actividades de decoradores, etc.)"
+	},
+	{
+		"activity_subtype_id" : 812,
+		"name" : "Servicios de fotografía"
+	},
+	{
+		"activity_subtype_id" : 813,
+		"name" : "Servicios de traducción e interpretación"
+	},
+	{
+		"activity_subtype_id" : 814,
+		"name" : "Servicios de representación e intermediación de artistas y modelos"
+	},
+	{
+		"activity_subtype_id" : 815,
+		"name" : "Servicios de representación e intermediación de deportistas profesionales"
+	},
+	{
+		"activity_subtype_id" : 816,
+		"name" : "Actividades profesionales, científicas y técnicas n.c.p."
+	},
+	{
+		"activity_subtype_id" : 817,
+		"name" : "Servicios veterinarios"
+	},
+	{
+		"activity_subtype_id" : 818,
+		"name" : "Alquiler de automóviles sin conductor"
+	},
+	{
+		"activity_subtype_id" : 819,
+		"name" : "Alquiler de vehículos automotores n.c.p., sin conductor ni operarios (Incluye: camiones, remolques, etc.)"
+	},
+	{
+		"activity_subtype_id" : 820,
+		"name" : "Alquiler de equipo de transporte para vía acuática, sin operarios ni tripulación"
+	},
+	{
+		"activity_subtype_id" : 821,
+		"name" : "Alquiler de equipo de transporte para vía aérea, sin operarios ni tripulación"
+	},
+	{
+		"activity_subtype_id" : 822,
+		"name" : "Alquiler de equipo de transporte n.c.p. sin conductor ni operarios (Incluye: equipo ferroviario, motocicletas)"
+	},
+	{
+		"activity_subtype_id" : 823,
+		"name" : "Alquiler de videos y video juegos (Incluye la actividad de los videoclubes)"
+	},
+	{
+		"activity_subtype_id" : 824,
+		"name" : "Alquiler de prendas de vestir"
+	},
+	{
+		"activity_subtype_id" : 825,
+		"name" : "Alquiler de efectos personales y enseres domésticos n.c.p. (Incluye alquiler de artículos deportivos)"
+	},
+	{
+		"activity_subtype_id" : 826,
+		"name" : "Alquiler de maquinaria y equipo agropecuario y forestal, sin operarios"
+	},
+	{
+		"activity_subtype_id" : 827,
+		"name" : "Alquiler de maquinaria y equipo para la minería, sin operarios"
+	},
+	{
+		"activity_subtype_id" : 951,
+		"name" : "Cría de ganado equino realizada en haras (Incluye la producción de semen)"
+	},
+	{
+		"activity_subtype_id" : 828,
+		"name" : "Alquiler de maquinaria y equipo de construcción e ingeniería civil, sin operarios (Incluye el alquiler de andamios sin montaje ni desmantelamiento)"
+	},
+	{
+		"activity_subtype_id" : 829,
+		"name" : "Alquiler de maquinaria y equipo de oficina, incluso computadoras"
+	},
+	{
+		"activity_subtype_id" : 830,
+		"name" : "Alquiler de maquinaria y equipo n.c.p., sin personal"
+	},
+	{
+		"activity_subtype_id" : 831,
+		"name" : "Arrendamiento y gestión de bienes intangibles no financieros"
+	},
+	{
+		"activity_subtype_id" : 832,
+		"name" : "Obtención y dotación de personal (Incluye las actividades vinculadas con la búsqueda, selección y colocación de personal, la actividad de casting de actores, etc.)"
+	},
+	{
+		"activity_subtype_id" : 833,
+		"name" : "Servicios minoristas de agencias de viajes"
+	},
+	{
+		"activity_subtype_id" : 834,
+		"name" : "Servicios mayoristas de agencias de viajes"
+	},
+	{
+		"activity_subtype_id" : 835,
+		"name" : "Servicios de turismo aventura"
+	},
+	{
+		"activity_subtype_id" : 836,
+		"name" : "Servicios complementarios de apoyo turístico n.c.p."
+	},
+	{
+		"activity_subtype_id" : 837,
+		"name" : "Servicios de transporte de caudales y objetos de valor"
+	},
+	{
+		"activity_subtype_id" : 838,
+		"name" : "Servicios de sistemas de seguridad"
+	},
+	{
+		"activity_subtype_id" : 839,
+		"name" : "Servicios de seguridad e investigación n.c.p."
+	},
+	{
+		"activity_subtype_id" : 840,
+		"name" : "Servicio combinado de apoyo a edificios"
+	},
+	{
+		"activity_subtype_id" : 841,
+		"name" : "Servicios de limpieza general de edificios"
+	},
+	{
+		"activity_subtype_id" : 842,
+		"name" : "Servicios de desinfección y exterminio de plagas en el ámbito urbano"
+	},
+	{
+		"activity_subtype_id" : 843,
+		"name" : "Servicios de limpieza n.c.p."
+	},
+	{
+		"activity_subtype_id" : 844,
+		"name" : "Servicios de jardinería y mantenimiento de espacios verdes"
+	},
+	{
+		"activity_subtype_id" : 845,
+		"name" : "Servicios combinados de gestión administrativa de oficinas"
+	},
+	{
+		"activity_subtype_id" : 846,
+		"name" : "Servicios de fotocopiado, preparación de documentos y otros servicios de apoyo de oficina"
+	},
+	{
+		"activity_subtype_id" : 847,
+		"name" : "Servicios de call center"
+	},
+	{
+		"activity_subtype_id" : 848,
+		"name" : "Servicios de organización de convenciones y exposiciones comerciales, excepto culturales y deportivos"
+	},
+	{
+		"activity_subtype_id" : 849,
+		"name" : "Servicios de agencias de cobro y calificación crediticia"
+	},
+	{
+		"activity_subtype_id" : 850,
+		"name" : "Servicios de envase y empaque"
+	},
+	{
+		"activity_subtype_id" : 851,
+		"name" : "Servicios empresariales n.c.p."
+	},
+	{
+		"activity_subtype_id" : 852,
+		"name" : "Servicios generales de la Administración Pública (Incluye el desempeño de funciones ejecutivas y legislativas de administración por parte de las entidades de la administración central, regional y local, la administración y supervisión de asuntos fiscales, la aplicación del presupuesto y la gestión de los fondos públicos y la deuda pública, la gestión administrativa de servicios estadísticos y sociológicos y de planificación social y económica a distintos niveles de la administración)"
+	},
+	{
+		"activity_subtype_id" : 853,
+		"name" : "Servicios para la regulación de las actividades sanitarias, educativas, culturales, y restantes servicios sociales, excepto seguridad social obligatoria (Incluye  la gestión administrativa de programas destinados a mejorar el bienestar de los ciudadanos)"
+	},
+	{
+		"activity_subtype_id" : 854,
+		"name" : "Servicios para la regulación de la actividad económica (Incluye la administración pública y la regulación de varios sectores económicos, la gestión administrativa de actividades de carácter laboral, la aplicación de políticas de desarrollo regional)"
+	},
+	{
+		"activity_subtype_id" : 855,
+		"name" : "Servicios auxiliares para los servicios generales de la Administración Pública (Incluye las actividades de servicios generales y de personal, la administración, dirección y apoyo de servicios generales, compras y suministros, etc. )"
+	},
+	{
+		"activity_subtype_id" : 856,
+		"name" : "Servicios de asuntos exteriores"
+	},
+	{
+		"activity_subtype_id" : 857,
+		"name" : "Servicios de defensa"
+	},
+	{
+		"activity_subtype_id" : 858,
+		"name" : "Servicios para el orden público y la seguridad"
+	},
+	{
+		"activity_subtype_id" : 859,
+		"name" : "Servicios de justicia"
+	},
+	{
+		"activity_subtype_id" : 860,
+		"name" : "Servicios de protección civil"
+	},
+	{
+		"activity_subtype_id" : 861,
+		"name" : "Servicios de la seguridad social obligatoria, excepto obras sociales (Incluye PAMI y ANSES)"
+	},
+	{
+		"activity_subtype_id" : 862,
+		"name" : "Guarderías y jardines maternales"
+	},
+	{
+		"activity_subtype_id" : 863,
+		"name" : "Enseñanza inicial, jardín de infantes y primaria"
+	},
+	{
+		"activity_subtype_id" : 864,
+		"name" : "Enseñanza secundaria de formación general"
+	},
+	{
+		"activity_subtype_id" : 865,
+		"name" : "Enseñanza secundaria de formación técnica y profesional"
+	},
+	{
+		"activity_subtype_id" : 866,
+		"name" : "Enseñanza  terciaria"
+	},
+	{
+		"activity_subtype_id" : 867,
+		"name" : "Enseñanza universitaria excepto formación de posgrado"
+	},
+	{
+		"activity_subtype_id" : 868,
+		"name" : "Formación de posgrado"
+	},
+	{
+		"activity_subtype_id" : 869,
+		"name" : "Enseñanza de idiomas"
+	},
+	{
+		"activity_subtype_id" : 870,
+		"name" : "Enseñanza de cursos relacionados con informática"
+	},
+	{
+		"activity_subtype_id" : 871,
+		"name" : "Enseñanza para adultos, excepto discapacitados"
+	},
+	{
+		"activity_subtype_id" : 872,
+		"name" : "Enseñanza especial y para discapacitados"
+	},
+	{
+		"activity_subtype_id" : 873,
+		"name" : "Enseñanza de gimnasia, deportes y actividades físicas"
+	},
+	{
+		"activity_subtype_id" : 874,
+		"name" : "Enseñanza artística"
+	},
+	{
+		"activity_subtype_id" : 875,
+		"name" : "Servicios de enseñanza n.c.p. (Incluye instrucción impartida mediante programas de radio, televisión, correspondencia y otros medios de comunicación, escuelas de manejo, actividades de enseñanza a domicilio y\/o particulares, etc.)"
+	},
+	{
+		"activity_subtype_id" : 876,
+		"name" : "Servicios de apoyo a la educación"
+	},
+	{
+		"activity_subtype_id" : 877,
+		"name" : "Servicios de internación excepto instituciones relacionadas con la salud mental"
+	},
+	{
+		"activity_subtype_id" : 878,
+		"name" : "Servicios de internación en instituciones relacionadas con la salud mental"
+	},
+	{
+		"activity_subtype_id" : 879,
+		"name" : "Servicios de  consulta médica (Incluye las actividades de establecimientos sin internación o cuyos servicios se desarrollen en unidades independientes a las de internación: consultorios médicos, servicios de medicina laboral)"
+	},
+	{
+		"activity_subtype_id" : 880,
+		"name" : "Servicios de proveedores de atención médica domiciliaria (Incluye las actividades llevadas a cabo en domicilios de pacientes con alta precoz, y que ofrecen atención por módulo)"
+	},
+	{
+		"activity_subtype_id" : 881,
+		"name" : "Servicios de atención médica en dispensarios, salitas, vacunatorios y otros locales de atención primaria de la salud"
+	},
+	{
+		"activity_subtype_id" : 882,
+		"name" : "Servicios odontológicos"
+	},
+	{
+		"activity_subtype_id" : 883,
+		"name" : "Servicios de prácticas de diagnóstico en laboratorios (Incluye análisis clínicos, bioquímica, anatomía patológica, laboratorio hematológico, etc.)"
+	},
+	{
+		"activity_subtype_id" : 884,
+		"name" : "Servicios de prácticas de diagnóstico por imágenes (Incluye radiología, ecografía, resonancia magnética, etc.)"
+	},
+	{
+		"activity_subtype_id" : 885,
+		"name" : "Servicios de prácticas de diagnóstico n.c.p."
+	},
+	{
+		"activity_subtype_id" : 886,
+		"name" : "Servicios de tratamiento (Incluye hemodiálisis, cobaltoterapia, etc)"
+	},
+	{
+		"activity_subtype_id" : 887,
+		"name" : "Servicio médico integrado de consulta, diagnóstico y tratamiento"
+	},
+	{
+		"activity_subtype_id" : 888,
+		"name" : "Servicios de emergencias y traslados"
+	},
+	{
+		"activity_subtype_id" : 889,
+		"name" : "Servicios de rehabilitación física (Incluye actividades de profesionales excepto médicos: kinesiólogos, fisiatras, etc.)"
+	},
+	{
+		"activity_subtype_id" : 890,
+		"name" : "Servicios relacionados con la salud humana n.c.p. (Incluye servicios de psicólogos, fonoaudiólogos, servicios de enfermería, terapia ocupacional, bancos de sangre, de semen,etc.)"
+	},
+	{
+		"activity_subtype_id" : 891,
+		"name" : "Servicios de atención a personas con problemas de salud mental o de adicciones, con alojamiento"
+	},
+	{
+		"activity_subtype_id" : 892,
+		"name" : "Servicios de atención a ancianos con alojamiento"
+	},
+	{
+		"activity_subtype_id" : 893,
+		"name" : "Servicios de atención a personas minusválidas con alojamiento"
+	},
+	{
+		"activity_subtype_id" : 894,
+		"name" : "Servicios de atención a niños y adolescentes carenciados con alojamiento"
+	},
+	{
+		"activity_subtype_id" : 895,
+		"name" : "Servicios de atención a mujeres con alojamiento"
+	},
+	{
+		"activity_subtype_id" : 896,
+		"name" : "Servicios sociales con alojamiento n.c.p."
+	},
+	{
+		"activity_subtype_id" : 897,
+		"name" : "Servicios sociales sin alojamiento"
+	},
+	{
+		"activity_subtype_id" : 898,
+		"name" : "Producción de espectáculos teatrales y musicales"
+	},
+	{
+		"activity_subtype_id" : 899,
+		"name" : "Composición y representación de obras teatrales, musicales y artísticas (Incluye a compositores, actores, músicos, conferencistas, pintores, artistas plásticos etc.)"
+	},
+	{
+		"activity_subtype_id" : 900,
+		"name" : "Servicios conexos a la producción de espectáculos teatrales y musicales  (Incluye diseño y manejo de escenografía, montaje de iluminación y sonido, etc.)"
+	},
+	{
+		"activity_subtype_id" : 901,
+		"name" : "Servicios de agencias de ventas de entradas"
+	},
+	{
+		"activity_subtype_id" : 902,
+		"name" : "Servicios de espectáculos artísticos n.c.p. (Incluye espectáculos circenses, de títeres, mimos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 903,
+		"name" : "Servicios de bibliotecas y archivos"
+	},
+	{
+		"activity_subtype_id" : 904,
+		"name" : "Servicios de museos y preservación de lugares y edificios históricos"
+	},
+	{
+		"activity_subtype_id" : 905,
+		"name" : "Servicios de jardines botánicos, zoológicos y de parques nacionales"
+	},
+	{
+		"activity_subtype_id" : 906,
+		"name" : "Servicios culturales n.c.p. (Incluye actividades sociales, culturales, recreativas y de interés local desarrollado por centros vecinales, barriales, sociedades de fomento, clubes no deportivos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 907,
+		"name" : "Servicios de recepción de apuestas de quiniela, lotería y similares"
+	},
+	{
+		"activity_subtype_id" : 908,
+		"name" : "Servicios relacionados con juegos de azar y apuestas n.c.p."
+	},
+	{
+		"activity_subtype_id" : 909,
+		"name" : "Servicios de organización, dirección y gestión de prácticas deportivas en clubes (Incluye clubes de fútbol, golf, tiro, boxeo, etc.)"
+	},
+	{
+		"activity_subtype_id" : 910,
+		"name" : "Explotación de instalaciones deportivas, excepto clubes"
+	},
+	{
+		"activity_subtype_id" : 911,
+		"name" : "Promoción y producción de espectáculos deportivos"
+	},
+	{
+		"activity_subtype_id" : 912,
+		"name" : "Servicios prestados por deportistas y atletas para la realización de prácticas deportivas"
+	},
+	{
+		"activity_subtype_id" : 913,
+		"name" : "Servicios prestados por profesionales y técnicos para la realización de prácticas deportivas (Incluye la actividad realizada por entrenadores, instructores, jueces árbitros, cronometradores, etc.)"
+	},
+	{
+		"activity_subtype_id" : 914,
+		"name" : "Servicios de acondicionamiento físico (Incluye gimnasios de musculación, pilates, yoga, personal trainner, etc.)"
+	},
+	{
+		"activity_subtype_id" : 915,
+		"name" : "Servicios para la práctica deportiva n.c.p."
+	},
+	{
+		"activity_subtype_id" : 916,
+		"name" : "Servicios de parques de diversiones y parques temáticos"
+	},
+	{
+		"activity_subtype_id" : 917,
+		"name" : "Servicios de salones de juegos (Incluye salones de billar, pool, bowling, juegos electrónicos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 918,
+		"name" : "Servicios de salones de baile, discotecas y similares"
+	},
+	{
+		"activity_subtype_id" : 919,
+		"name" : "Servicios de entretenimiento n.c.p."
+	},
+	{
+		"activity_subtype_id" : 920,
+		"name" : "Servicios de organizaciones empresariales y de empleadores"
+	},
+	{
+		"activity_subtype_id" : 921,
+		"name" : "Servicios de organizaciones profesionales"
+	},
+	{
+		"activity_subtype_id" : 922,
+		"name" : "Servicios de sindicatos"
+	},
+	{
+		"activity_subtype_id" : 923,
+		"name" : "Servicios de organizaciones religiosas"
+	},
+	{
+		"activity_subtype_id" : 924,
+		"name" : "Servicios de organizaciones políticas"
+	},
+	{
+		"activity_subtype_id" : 925,
+		"name" : "Servicios de mutuales, excepto mutuales de salud y financieras"
+	},
+	{
+		"activity_subtype_id" : 926,
+		"name" : "Servicios de consorcios de edificios"
+	},
+	{
+		"activity_subtype_id" : 927,
+		"name" : "Servicios de cooperativas cuando realizan varias actividades"
+	},
+	{
+		"activity_subtype_id" : 928,
+		"name" : "Servicios de asociaciones n.c.p."
+	},
+	{
+		"activity_subtype_id" : 929,
+		"name" : "Reparación y mantenimiento de equipos informáticos"
+	},
+	{
+		"activity_subtype_id" : 930,
+		"name" : "Reparación y mantenimiento de equipos de telefonía y de comunicación"
+	},
+	{
+		"activity_subtype_id" : 931,
+		"name" : "Reparación de calzado y artículos de marroquinería"
+	},
+	{
+		"activity_subtype_id" : 932,
+		"name" : "Reparación de tapizados y muebles (Incluye la restauración de muebles)"
+	},
+	{
+		"activity_subtype_id" : 933,
+		"name" : "Reforma y reparación de cerraduras, duplicación de llaves. Cerrajerías"
+	},
+	{
+		"activity_subtype_id" : 934,
+		"name" : "Reparación de relojes y joyas. Relojerías"
+	},
+	{
+		"activity_subtype_id" : 935,
+		"name" : "Reparación de efectos personales y enseres domésticos n.c.p. (Incluye la actividad de arreglos de prendas realizadas por modistas), (No incluye la actividad de sastres y modistas que confeccionan prendas: grupo 141)"
+	},
+	{
+		"activity_subtype_id" : 936,
+		"name" : "Servicios de limpieza de prendas prestado por tintorerías rápidas"
+	},
+	{
+		"activity_subtype_id" : 937,
+		"name" : "Lavado y limpieza de artículos de tela, cuero y\/o de piel, incluso la limpieza en seco"
+	},
+	{
+		"activity_subtype_id" : 938,
+		"name" : "Servicios de peluquería"
+	},
+	{
+		"activity_subtype_id" : 939,
+		"name" : "Servicios de tratamiento de belleza, excepto los de peluquería"
+	},
+	{
+		"activity_subtype_id" : 940,
+		"name" : "Pompas fúnebres y servicios conexos"
+	},
+	{
+		"activity_subtype_id" : 941,
+		"name" : "Servicios de centros de estética, spa y similares (Incluye baños turcos, saunas, solarios, centros de masajes y adelgazamiento, etc.)"
+	},
+	{
+		"activity_subtype_id" : 942,
+		"name" : "Servicios personales n.c.p. (Incluye actividades de astrología y espiritismo, las realizadas con fines sociales como agencias matrimoniales, de investigaciones genealógicas, de contratación de acompañantes, la actividad de lustrabotas, acomodadores de autos, etc.)"
+	},
+	{
+		"activity_subtype_id" : 943,
+		"name" : "Servicios de hogares privados que contratan servicio doméstico"
+	},
+	{
+		"activity_subtype_id" : 944,
+		"name" : "Servicios de organizaciones y órganos extraterritoriales"
+	},
+	{
+		"activity_subtype_id" : 945,
+		"name" : "Reparación de artículos eléctricos y electrónicos de uso doméstico (Incluye  TV, radios, reproductores CDs y DVDs, cámaras de video de uso familiar, heladeras, lavarropas, secarropas, aire acondicionado de menos de 6000 frigorías)"
+	},
+	{
+		"activity_subtype_id" : 946,
+		"name" : "Venta al por menor de CDs y DVDs de audio y video grabados (Incluye CDs y DVDs vírgenes)"
+	},
+	{
+		"activity_subtype_id" : 947,
+		"name" : "Venta al por mayor de CDs y DVDs de audio y video grabados."
+	},
+	{
+		"activity_subtype_id" : 948,
+		"name" : "Venta al por mayor en comisión o consignación de productos textiles, prendas de vestir, calzado excepto el ortopédico,  artículos de marroquinería, paraguas y similares y productos de cuero n.c.p."
+	},
+	{
+		"activity_subtype_id" : 949,
+		"name" : "Perforación y sondeo, excepto perforación de pozos de petróleo, de gas, de minas e hidráulicos  y prospección de yacimientos de petróleo (Incluye los trabajos de perforación, sondeo y muestreo con fines de construcción o para estudios geofísicos, geológicos u otros similares, las perforaciones horizontales para el paso de cables o cañerías de drenaje, etc.), (No incluye los servicios de perforación relacionados con la extracción de petróleo y gas, activ.091000, ni la perforación de pozos hidráulicos, activ.422100)"
+	},
+	{
+		"activity_subtype_id" : 950,
+		"name" : "Reparación y mantenimiento de instrumentos médicos, ópticos y de precisión, equipo fotográfico, aparatos para medir, ensayar o navegar, relojes, excepto para uso personal o doméstico"
+	}
+]}

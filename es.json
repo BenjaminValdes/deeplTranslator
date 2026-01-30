@@ -1,9 +1,3 @@
 {
-    "auth.passwordRecovery.missingEmail": "Debe indicar un email.",
-    "auth.passwordRecovery.genericResponse": "Si la cuenta existe, se enviará un email.",
-    "auth.passwordRecovery.error": "Error al recuperar la contraseña.",
-    "email.passwordReset.greeting": "Hola, {email}! Has solicitado un restablecimiento de tu contraseña.",
-    "email.passwordReset.instructions": "Haz clic en el siguiente enlace para restablecer tu contraseña:",
-    "email.passwordReset.cta": "Restablecer contraseña",
-    "email.passwordReset.subject": "Restablece tu contraseña"
+    "checklist.library.error.invalidReviewerUsers": "El ID del usuario revisor no es válido"
 }

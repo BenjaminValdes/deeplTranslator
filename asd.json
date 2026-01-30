@@ -1,0 +1,23 @@
+{
+  "EN": {
+    "checklist.library.error.invalidReviewerUsers": "The reviewer user ID is invalid."
+  },
+  "PT-BR": {
+    "checklist.library.error.invalidReviewerUsers": "O ID do usuário revisor não é válido"
+  },
+  "IT": {
+    "checklist.library.error.invalidReviewerUsers": "L'ID dell'utente revisore non è valido"
+  },
+  "DE": {
+    "checklist.library.error.invalidReviewerUsers": "Die ID des überprüfenden Benutzers ist ungültig."
+  },
+  "FR": {
+    "checklist.library.error.invalidReviewerUsers": "L'identifiant de l'utilisateur vérificateur n'est pas valide."
+  },
+  "KO": {
+    "checklist.library.error.invalidReviewerUsers": "검토자 ID가 유효하지 않습니다."
+  },
+  "ZH-HANS": {
+    "checklist.library.error.invalidReviewerUsers": "审核用户的ID无效"
+  }
+}
